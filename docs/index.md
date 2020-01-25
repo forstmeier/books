@@ -5,7 +5,7 @@
 ## The Bellefonte Trilogy
 
 - **[Knowing and Triumphant](https://forstmeier.github.io/books/knowing-and-triumphant/index.html)**
-- **The Summation War**
+- **[The Summation War](https://forstmeier.github.io/books/the-summation-war/index.html)**
 - **Chosen for Elysium**
 
-Copyright (c) 2020 John Forstmeier
+Copyright <script type="text/javascript">document.write(new Date().getFullYear());</script> John Forstmeier

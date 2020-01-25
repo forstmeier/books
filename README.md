@@ -4,6 +4,6 @@
 
 ## Description
 
-**books** is a collection location for various longer-form writings, both fiction and non-fiction, and the contents are hosted on [GitHub Pages](https://pages.github.com/). John can be contacted via direct message on [Twitter](https://twitter.com/forstmeier).
+**books** is a collection location for various longer-form writings, both fiction and non-fiction, and the contents are hosted on [GitHub Pages](https://pages.github.com/). All works here are original content and are the sole property of the author but may be linked to with appropriate attribution. John can be contacted via direct message on [Twitter](https://twitter.com/forstmeier).
 
 Copyright (c) 2020 John Forstmeier  
