@@ -4,13 +4,13 @@
 
 ## Chapters
 
-* [Chapter 1: The bodhi tree](https://forstmeier.github.io/books/knowing-and-triumphant/chapter-1-the-bodhi-tree.html)
-* [Chapter 2: Lieutenant](https://forstmeier.github.io/books/knowing-and-triumphant/chapter-2-lieutenant.html)
-* [Chapter 3: Bigs and Smalls](https://forstmeier.github.io/books/knowing-and-triumphant/chapter-3-bigs-and-smalls.html)
-* [Chapter 4: Chameleon](https://forstmeier.github.io/books/knowing-and-triumphant/chapter-4-chameleon.html)
-* [Chapter 5: Jerusalem](https://forstmeier.github.io/books/knowing-and-triumphant/chapter-5-jerusalem.html)
-* [Chapter 6: Fraying](https://forstmeier.github.io/books/knowing-and-triumphant/chapter-6-fraying.html)
-* [Chapter 7: The Field Marshal's speech](https://forstmeier.github.io/books/knowing-and-triumphant/chapter-7-the-field-marshals-speech.html)
+* [Chapter 1: The bodhi tree](https://forstmeier.github.io/books/the-summation-war/chapter-1-the-bodhi-tree.html)
+* [Chapter 2: Lieutenant](https://forstmeier.github.io/books/the-summation-war/chapter-2-lieutenant.html)
+* [Chapter 3: Bigs and Smalls](https://forstmeier.github.io/books/the-summation-war/chapter-3-bigs-and-smalls.html)
+* [Chapter 4: Chameleon](https://forstmeier.github.io/books/the-summation-war/chapter-4-chameleon.html)
+* [Chapter 5: Jerusalem](https://forstmeier.github.io/books/the-summation-war/chapter-5-jerusalem.html)
+* [Chapter 6: Fraying](https://forstmeier.github.io/books/the-summation-war/chapter-6-fraying.html)
+* [Chapter 7: The Field Marshal's speech](https://forstmeier.github.io/books/the-summation-war/chapter-7-the-field-marshals-speech.html)
 
 ## Reference sheet
 
