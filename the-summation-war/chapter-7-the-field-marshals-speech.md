@@ -1,18 +1,16 @@
+# Chapter 7: The Field Marshal's speech
+
 > :: GENERAL COMMUNIQUE ::  
-> Source      -> I.T.A.M. Office of War  
-> Destination -> All, I.T.A.M.  
-> Message ->  
+> Source -&gt; I.T.A.M. Office of War  
+> Destination -&gt; All, I.T.A.M.  
+> Message -&gt;  
 > ALERT, ALL PERSONNEL  
 > Today at 09:00:00 ITZ the newly appointed FIELD  
 > MARSHAL of the I.T.A.M. MILITARY FORCES IN WHOLE Peter will address the  
 > combined body of combatant and non-combatant members of I.T.A.M.  
->  
 > This broadcast will be made available on I.T.A.M. network reserved channel.  
 > You are hereby REQUESTED and REQUIRED to receive this broadcast at the stated time.  
->  
-> END  
-
----
+> END
 
 Peter's eyes opened. He was in a clean, white environment laying on a gurney dressed in a medical gown.
 
@@ -251,3 +249,4 @@ Another recording from Lewis was later discovered by Millie in his private journ
 "We are still in the era of enemies but one day perhaps we will be brothers all. Until then, we will need someone to find the demons in our midst and I do not ask for a pardon for what I have done. These atrocities and unforgivable acts I have committed were done because they were what was needed, not what was right."
 
 "Greater humanity needed this from me: my own humanity. No one should make this decision again and I hope that you all go on to be better."
+

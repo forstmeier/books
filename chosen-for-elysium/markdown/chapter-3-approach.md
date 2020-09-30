@@ -1,1 +1,4 @@
-Copyright <script type="text/javascript">document.write(new Date().getFullYear());</script> John Forstmeier
+# chapter-3-approach
+
+Copyright document.write\(new Date\(\).getFullYear\(\)\); John Forstmeier
+

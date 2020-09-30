@@ -1,15 +1,12 @@
-> ### README  
-> ---  
+# Chapter 1: The bodhi tree
+
+> ## README
+>
 > **Introduction**  
->  
 > **procplan** is a small script that ensures continuity of the founder's plan; it is responsible for transferring necessary access codes to the designated successor. In the event that a successor has not been selected at the time of transference, the fallback contingency operation is triggered.  
 > Administration and maintenance of this script is under the responsibility of Project 001-6bba42.  
->  
 > **Usage**  
->  
-> `./procplan`  
-
----
+> `./procplan`
 
 It was cool in Peter's office.
 
@@ -208,3 +205,4 @@ Peter nodded, resigning himself to his fate. The fire began burning low and the 
 Eventually, Doyle excused herself and Arthur appeared to show her to her room. Millie too disappeared for the night, leaving Peter alone on the platform.
 
 Sweeping away the furniture back into energy, he was left on the platform with nothing around him except the black landscape and the expanse of stars above.
+

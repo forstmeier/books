@@ -1,1 +1,4 @@
-Copyright <script type="text/javascript">document.write(new Date().getFullYear());</script> John Forstmeier
+# chapter-5-kyrie-elision
+
+Copyright document.write\(new Date\(\).getFullYear\(\)\); John Forstmeier
+

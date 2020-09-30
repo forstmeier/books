@@ -1,16 +1,16 @@
-# The Summation War
+# Introduction
 
 > For my mom and dad
 
 ## Chapters
 
-* Chapter 1: The bodhi tree
-* Chapter 2: Lieutenant
-* Chapter 3: Bigs and Smalls
-* Chapter 4: Chameleon
-* Chapter 5: Jerusalem
-* Chapter 6: Fraying
-* Chapter 7: The Field Marshal's speech
+* [Chapter 1: The bodhi tree](chapter-1-the-bodhi-tree.md)
+* [Chapter 2: Lieutenant](chapter-2-lieutenant.md)
+* [Chapter 3: Bigs and Smalls](chapter-3-bigs-and-smalls.md)
+* [Chapter 4: Chameleon](chapter-4-chameleon.md)
+* [Chapter 5: Jerusalem](chapter-5-jerusalem.md)
+* [Chapter 6: Fraying](chapter-6-fraying.md)
+* [Chapter 7: The Field Marshal's speech](chapter-7-the-field-marshals-speech.md)
 
 ## Reference sheet
 
@@ -27,4 +27,5 @@
 
 I'm available at my [personal website](https://forstmeier.github.io/).
 
-Copyright (c) 2020 John Forstmeier
+Copyright \(c\) 2020 John Forstmeier
+

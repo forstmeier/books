@@ -1,3 +1,5 @@
+# Chapter 5: Atlas Unyielding
+
 > Begin transcript...  
 > More: Apparently, communications are coming back onl-\(\*static\*\) but it appears to be \(\*static\*\) at best.  
 > Belloc: Clearly.  
@@ -12,8 +14,6 @@
 > More: Our moves have been driven in response to a fanatic. These are necessary measures.  
 > Belloc: \[silence\]  
 > More: We're making the best of a dis-\(\*static\*\)-l situation.
-
----
 
 Peter woke to Arthur gently shaking him in his bunk. He could smell breakfast being prepared outside and after getting dressed he joined Lewis who was already eating. They ate in silence but Peter felt as though Lewis was more relaxed than he had been yesterday as if some weight had been lifted off his shoulders.
 
@@ -49,11 +49,11 @@ Squeezing his shoulder reassuringly, she assumed a position beside him, adopting
 
 On the other hand, Lewis was the picture of calm. He reclined in the bow seating, as if he hadn't a care in the world, looking out over the speeding terrain below.
 
-Overhead Peter observed what appeared to be a moon floating in the upper atmosphere. Arthur spoke up from behind Peter, "That is *Lunella*, one of *Pangea's* artificial moons. Those are the core level, basic components of the future moon to be set into orbit."
+Overhead Peter observed what appeared to be a moon floating in the upper atmosphere. Arthur spoke up from behind Peter, "That is _Lunella_, one of _Pangea's_ artificial moons. Those are the core level, basic components of the future moon to be set into orbit."
 
 Even from their vantage point, Peter could make out some of the details of the structure. Large exposed pipes and beams were visible and the inner workings of the object could be seen.
 
-"Smaller bodies like *Lunella* will be used to coordinate bulk transportation and support special-mission establishments segregated from the broader *Pangea* surface. *Lunella* will not be much larger than two kilometers in diameter when complete - it will be small enough that you will be able to see its curvature when standing on the outer surface with artificial gravity holding individuals in place, of course. That is where the next stage of Proctor development will officially take place."
+"Smaller bodies like _Lunella_ will be used to coordinate bulk transportation and support special-mission establishments segregated from the broader _Pangea_ surface. _Lunella_ will not be much larger than two kilometers in diameter when complete - it will be small enough that you will be able to see its curvature when standing on the outer surface with artificial gravity holding individuals in place, of course. That is where the next stage of Proctor development will officially take place."
 
 Peter gazed up at the miniature celestial body suspended in the atmosphere above him. He wasn't thinking about anything, just looking at it. Everything in his future seemed absolutely planned out and all he was made to do was to take each next step.
 
@@ -179,7 +179,7 @@ They passed another circular station in the middle of which there stood a figure
 
 A gentle countenance was permanently fixed to her facemask as doctors moved about monitoring equipment. In her transparent womb, Peter could see a biomechanical baby revolving. He watched as it slowly turned towards him and suddenly it looked up, straight into his eyes. Radiantly blue and translucent human-like eyes stared into his.
 
-"We are seeking out ways to produce the healthiest organism to hold humanity's existence but those," said Belloc gesturing at the mother and child "are just robots, not humans. While they are helping us to understand synthesis better, but we will need a different approach to create *homo syntheticus*."
+"We are seeking out ways to produce the healthiest organism to hold humanity's existence but those," said Belloc gesturing at the mother and child "are just robots, not humans. While they are helping us to understand synthesis better, but we will need a different approach to create _homo syntheticus_."
 
 "And that brings us to you, Peter."
 
@@ -269,11 +269,11 @@ He turned and looked resolutely into Arthur and Millie's faces. Arthur nodded, s
 
 Millie knelt down on the invisible ground she stood upon and placed her hand in Peter's direction. She smiled at him with genuine kindness. Whatever happened, he knew she truly would be with him.
 
-After leaving the room and confirming his decision, with the others Peter was stripped and wrapped in a medical tunic and brought to a launch bay where he was seen off by Belloc and More. He boarded a ship which quickly brought him and a retinue of medical officers, robots, and Arthur, who now held Millie's projector, to *Lunella*.
+After leaving the room and confirming his decision, with the others Peter was stripped and wrapped in a medical tunic and brought to a launch bay where he was seen off by Belloc and More. He boarded a ship which quickly brought him and a retinue of medical officers, robots, and Arthur, who now held Millie's projector, to _Lunella_.
 
 What followed were many hours of pre-operation checks with various departments. Disinfecting, cleaning, blood samples, and more. Another sterile room, robots only this time. Mobile IVs were attached and several monitoring devices as well.
 
-Finally, he was deposited in an empty hallway, with a closed door to his back separating him even from Arthur and Millie. A long, wide window to his left overlooked the expanse of *Pangea*'s landscape at dusk from low-orbit. He began to slowly walk down the hallway, his bare feet making small padding noises as he went.
+Finally, he was deposited in an empty hallway, with a closed door to his back separating him even from Arthur and Millie. A long, wide window to his left overlooked the expanse of _Pangea_'s landscape at dusk from low-orbit. He began to slowly walk down the hallway, his bare feet making small padding noises as he went.
 
 One step and then another.
 
@@ -296,3 +296,4 @@ He screamed but couldn't hear it.
 His body shook violently but he couldn't feel it.
 
 And then everything went black.
+

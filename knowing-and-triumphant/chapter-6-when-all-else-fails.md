@@ -1,28 +1,24 @@
-> TO:   ITAM & Co. Military Command  
+# Chapter 6: When All Else Fails
+
+> TO: ITAM & Co. Military Command  
 > FROM: ITAM & Co. Oversight Committee  
->  
 > Immediate mobilization  
-> All armed forces are to prepare for combat on board *Pangea*. Containment and suppression measures are authorized against hostile forces on the surface and in orbit of *Pangea*. Oversight Committee Chairman Card is assigned to overall command of this mission.  
+> All armed forces are to prepare for combat on board _Pangea_. Containment and suppression measures are authorized against hostile forces on the surface and in orbit of _Pangea_. Oversight Committee Chairman Card is assigned to overall command of this mission.  
 > CEO Alexandra More and Director Belloc are to be captured and place them under immediate arrest for violation of ITAM & Co. protocols.  
 > The outstanding security arrest warrant for Chairman Lewis has been upgraded: lethal force is now permitted should it be necessary.  
->  
-> By order of the ITAM & Co. Oversight Committee.  
+> By order of the ITAM & Co. Oversight Committee.
 
----
-
-> TO:   ITAM & Co. Military Command  
+> TO: ITAM & Co. Military Command  
 > FROM: ITAM & Co. Executive Leadership  
->  
 > Immediate mobilization  
-> All armed forces are to prepare *Pangea* for combat. Defensive and expulsion measures are hereby authorized against hostiles interfering with *Pangea*'s normal operations. This order invokes ITAM & Co. contingency order number 2 section 21 article b authorizing the Executive Leadership with emergency powers. The specifics of this order are:  
-> - to place CEO Alexandra More as overall head of ITAM & Co. military forces  
-> - to grant a field commission in the military forces to Director Belloc  
-> - to deem the Oversight Committee unfit for command and to immediately detain all members  
-> - to seize all Proctor assets and placed under the supervision of the Executive Leadership  
->  
-> By order of the ITAM & Co. Executive Leadership.  
-
----
+> All armed forces are to prepare _Pangea_ for combat. Defensive and expulsion measures are hereby authorized against hostiles interfering with _Pangea_'s normal operations. This order invokes ITAM & Co. contingency order number 2 section 21 article b authorizing the Executive Leadership with emergency powers. The specifics of this order are:
+>
+> * to place CEO Alexandra More as overall head of ITAM & Co. military forces  
+> * to grant a field commission in the military forces to Director Belloc  
+> * to deem the Oversight Committee unfit for command and to immediately detain all members  
+> * to seize all Proctor assets and placed under the supervision of the Executive Leadership
+>
+>   By order of the ITAM & Co. Executive Leadership.
 
 Peter snapped back into consciousness, gasping in shock.
 
@@ -30,7 +26,7 @@ His heart was racing in his chest.
 
 The last thing he remembered was...the needles...the procedure.
 
-He forced himself to take a deep breath, and then another. Gradually, his body calmed down and he began to take in where he was. It was a different room from where the operation had taken place; there was no constant, almost imperceptible, low hum of the systems on *Lunella* so he must be on *Pangea*.
+He forced himself to take a deep breath, and then another. Gradually, his body calmed down and he began to take in where he was. It was a different room from where the operation had taken place; there was no constant, almost imperceptible, low hum of the systems on _Lunella_ so he must be on _Pangea_.
 
 Sitting up, he looked about the dimly lit room. He was on a hospital-style bed but there was no equipment about. The medical gown he wore to the operation was gone and he was now dressed in a gray, fitted bodysuit and light shoes. One door was open in the room and it led down a hallway lit by faint white lights.
 
@@ -102,13 +98,13 @@ More gave Peter another weak smile.
 
 She glanced down the table at the impassive Lewis.
 
-"We're here to take you to your final stage of installment, Peter - your network connection aboard the battleship *Thulcandra*."
+"We're here to take you to your final stage of installment, Peter - your network connection aboard the battleship _Thulcandra_."
 
 "I thought it was going to be on board a Mover like the one that we saw on our...journey," said Peter in surprise.
 
 More shook her head definitively.
 
-"No, the proper location is on board the *Thulcandra* as it affords more mobility and the ability to assert control wherever it is needed. This will help you help humanity by traveling to where you are most needed."
+"No, the proper location is on board the _Thulcandra_ as it affords more mobility and the ability to assert control wherever it is needed. This will help you help humanity by traveling to where you are most needed."
 
 This was her plan. She and Belloc were hoping to have absolute control over the Proctor interface and by extension, Peter, the Proctor, himself. By placing a network connection on a vehicle, he assumed was under their control, he could be kept out of the hands of others and away from the independent junction on board the Proctor Mover - the latter was Lewis's goal.
 
@@ -154,7 +150,7 @@ Card looked down the table at the still-seated Lewis. "Finally," said Card with 
 
 But Lewis pressed on ignoring Card's comments.
 
-"Before you arrived, Alexandra here was laying out her plans to install the Proctor on board battleship *Thulcandra* - it's an interesting suggestion, what do you think?"
+"Before you arrived, Alexandra here was laying out her plans to install the Proctor on board battleship _Thulcandra_ - it's an interesting suggestion, what do you think?"
 
 An aghast look flew over Card's face. The installation point must have been a previously established and well-known part of the plan for the Proctor. It was something embedded into the fundamental fabric of the project to the point that any deviation from the long-standing orders solicited such strong emotions from Card.
 
@@ -290,7 +286,7 @@ He rapidly picked up speed crossing the square and More's group and the dueling 
 
 The full city was visible. It was in chaos.
 
-Card had apparently brought a full military contingent with him when he arrived on *Pangea* and it was in armed combat with More and Belloc's forces. He had been prepared for the worst which was now realized.
+Card had apparently brought a full military contingent with him when he arrived on _Pangea_ and it was in armed combat with More and Belloc's forces. He had been prepared for the worst which was now realized.
 
 Open conflict stretched across the Scholl cityscape. Smoke was rising from various blocks and there were explosions and laser blasts throughout the streets. Above them, ships and gunboats were suspended in air trading fire. Even further up still, in the high reaches of the atmosphere, small capital ships were visible engaging one another.
 
@@ -367,3 +363,4 @@ None of this registered; his mind was a singular focus.
 His induction as the Proctor would be a baptism of blood. His ascension would be seen only in his victory. There was no more running.
 
 He was going to have to fight.
+

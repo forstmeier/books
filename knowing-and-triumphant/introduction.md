@@ -1,16 +1,16 @@
-# Knowing And Triumphant
+# Introduction
 
 > For Kaitlin
 
 ## Chapters
 
-* Chapter 1: Birthday
-* Chapter 2: Liftoff
-* Chapter 3: The Machine
-* Chapter 4: Various unknowns
-* Chapter 5: Atlas unyielding
-* Chapter 6: When all else fails
-* Chapter 7: Human error
+* [Chapter 1: Birthday](chapter-1-birthday.md)
+* [Chapter 2: Liftoff](chapter-2-liftoff.md)
+* [Chapter 3: The Machine](chapter-3-the-machine.md)
+* [Chapter 4: Various unknowns](chapter-4-various-unknowns.md)
+* [Chapter 5: Atlas unyielding](chapter-5-atlas-unyielding.md)
+* [Chapter 6: When all else fails](chapter-6-when-all-else-fails.md)
+* [Chapter 7: Human error](chapter-7-human-error.md)
 
 ## Reference sheet
 
@@ -27,4 +27,5 @@
 
 I'm available at my [personal website](https://forstmeier.github.io/).
 
-Copyright (c) 2020 John Forstmeier
+Copyright \(c\) 2020 John Forstmeier
+

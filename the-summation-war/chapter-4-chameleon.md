@@ -1,36 +1,31 @@
-> || INTERVIEW TRANSCRIPT ||  
-> > **DATE**:        \<redacted\>  
-> > **LOCATION**:    \<redacted\>  
-> > **INTERVIEWER**: \<redacted\>  
-> > **INMATE**:      \<redacted\>  
->  
-> ---  
-> Begin transcript...  
->  
-> \<INMATE\>:  I'd almost forgotten what you looked like  
-> \<INMATE\>:  It's been a long time  
-> \<INMATE\>:  The last time I saw you was so long ago  
-> \<INMATE\>:  When you tried to kill me  
->  
-> \<INTERVIEWER\>:  But I didn't  
-> \<INTERVIEWER\>:  And here you are  
->  
-> \<INMATE\>:  Here I am  
-> \<INMATE\>:  And here you are  
-> \<INMATE\>:  And here we are  
->  
-> \<INTERVIEWER\>:  Not for long  
-> \<INTERVIEWER\>:  Soon I won't be here  
-> \<INTERVIEWER\>:  And soon you won't be here  
-> \<INTERVIEWER\>:  And then neither of us will be here  
->  
-> \<INMATE\>:  \*sigh\*  
-> \<INMATE\>:  Not here  
-> \<INMATE\>:  Somewhere else  
-> \<INMATE\>:  Somewhere I can work again  
-> \<INMATE\>:  I would like that  
+# Chapter 4: Chameleon
 
----
+> \|\| INTERVIEW TRANSCRIPT \|\|
+>
+> > **DATE**: \  
+> > **LOCATION**: \  
+> > **INTERVIEWER**: \  
+> > **INMATE**: \
+> >
+> > Begin transcript...  
+> > \: I'd almost forgotten what you looked like  
+> > \: It's been a long time  
+> > \: The last time I saw you was so long ago  
+> > \: When you tried to kill me  
+> > \: But I didn't  
+> > \: And here you are  
+> > \: Here I am  
+> > \: And here you are  
+> > \: And here we are  
+> > \: Not for long  
+> > \: Soon I won't be here  
+> > \: And soon you won't be here  
+> > \: And then neither of us will be here  
+> > \: \*sigh\*  
+> > \: Not here  
+> > \: Somewhere else  
+> > \: Somewhere I can work again  
+> > \: I would like that
 
 Sirens blared out and the control room burst into chaos.
 
@@ -183,3 +178,4 @@ There stood another glowing hologram of Lewis. Millie reappeared shaking her hea
 The hologram snapped off and the room erupted into hubbub but Peter couldn't hear any of it over the ringing in his own ears. All he could think of was Arthur. This was more than a betrayal. His oldest friend was lost.
 
 Had he ever really been his friend?
+

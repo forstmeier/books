@@ -1,15 +1,16 @@
+# Chapter 7: Human Error
+
 > Addendum to the Prophecies of the Proctor  
->  
 > Among the many difficulties facing the coming Proctor, three shall stand out as the greatest challenges.  
-> These three will create perspectives on the role and its position in human history.  
-> - The first shall be told about the Proctor  
-> - The second will be written for the Proctor  
-> - The third will be crafted by the Proctor  
-> And in facing these, the Proctor will grow to the benefit of all.  
+> These three will create perspectives on the role and its position in human history.
+>
+> * The first shall be told about the Proctor  
+> * The second will be written for the Proctor  
+> * The third will be crafted by the Proctor  
+>
+>   And in facing these, the Proctor will grow to the benefit of all.
 
----
-
-Peter's helmet retracted from his face and down into his upper armor plates. Inside the Mover was cool and a  steady rumble of machinery could be heard behind the hallway walls. These corridors were clearly more functional; exposed metal plates and pipes could be seen as the pair moved quickly deeper into the belly of the beast. After passing through several of these tunnels they came to a more "finished" section with sleek black floors and white walls.
+Peter's helmet retracted from his face and down into his upper armor plates. Inside the Mover was cool and a steady rumble of machinery could be heard behind the hallway walls. These corridors were clearly more functional; exposed metal plates and pipes could be seen as the pair moved quickly deeper into the belly of the beast. After passing through several of these tunnels they came to a more "finished" section with sleek black floors and white walls.
 
 They ran down the hall with Peter leading the way. He knew where to go - he could see the pathway in his head.
 
@@ -335,18 +336,15 @@ Peter stood.
 
 "You are now truly knowing of your mantle and are donning it triumphant."
 
-
-
-*Epilogue*
-
-
+_Epilogue_
 
 Immediately following the defeat of Belloc, Peter broadcast a message to all of ITAM & Co. announcing his assumption to the post of the Proctor and the defeat of Dr. Belloc. Arrest orders were issued for More and Lewis was also detained as part of an immediate cessation of hostilities.
 
-After the war, ITAM & Co. received several major sanctions from several governments and various oversight councils with leaders of the intra-company factions being brought before a tribunal for judgment. Lewis was found innocent as he fought to subdue the rebellion despite allowing the ITAM civil war to erupt (often colloquially known as the "thirty-minute war") while other parties, including More, faced prison sentences. Peter officially assumed full control of the ITAM network and after a council with the various operational heads began restructuring the company.
+After the war, ITAM & Co. received several major sanctions from several governments and various oversight councils with leaders of the intra-company factions being brought before a tribunal for judgment. Lewis was found innocent as he fought to subdue the rebellion despite allowing the ITAM civil war to erupt \(often colloquially known as the "thirty-minute war"\) while other parties, including More, faced prison sentences. Peter officially assumed full control of the ITAM network and after a council with the various operational heads began restructuring the company.
 
 Although he had nothing to do with actual start of the war, Peter as the "head" of ITAM & Co. received blame for his place in the conflict and as such chose to go into quasi-exile on the plains of _Pangea_ where he established a small hermitage to remotely and subtly conduct the business of managing the company's operations. Essentially, he was doing exactly what he was designed to do while remaining separate from the rest of the firm and the world.
 
 On the day of his departure, Peter gave a short address to the small crowd of ITAM leaders there to see him off. It read:
 
 "The world stands as a plane for man's self-creation. The field on which man answers the call to become mankind. Caked blood of martyrs and stinging sweat of the people stand witness to the pursuit of our destiny. But in our struggle we so often lose our perspective. I ask you, truthfully: are we to create a greater world for Man, or a greater Man for the world?"
+
