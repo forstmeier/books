@@ -1,25 +1,25 @@
 > TO:   ITAM & Co. Military Command  
 > FROM: ITAM & Co. Oversight Committee  
->
+>  
 > Immediate mobilization  
 > All armed forces are to prepare for combat on board *Pangea*. Containment and suppression measures are authorized against hostile forces on the surface and in orbit of *Pangea*. Oversight Committee Chairman Card is assigned to overall command of this mission.  
 > CEO Alexandra More and Director Belloc are to be captured and place them under immediate arrest for violation of ITAM & Co. protocols.  
 > The outstanding security arrest warrant for Chairman Lewis has been upgraded: lethal force is now permitted should it be necessary.  
->
+>  
 > By order of the ITAM & Co. Oversight Committee.  
 
 ---
 
 > TO:   ITAM & Co. Military Command  
 > FROM: ITAM & Co. Executive Leadership  
->
+>  
 > Immediate mobilization  
-> All armed forces are to prepare *Pangea* for combat. Defensive and expulsion measures are hereby authorized against hostiles interfering with *Pangea*'s normal operations. This order invokes ITAM & Co. contingency order number 2 section 21 article b authorizing the Executive Leadership with emergency powers. The specifics of this order are:
-> - to place CEO Alexandra More as overall head of ITAM & Co. military forces
-> - to grant a field commission in the military forces to Director Belloc
-> - to deem the Oversight Committee unfit for command and to immediately detain all members
-> - to seize all Proctor assets and placed under the supervision of the Executive Leadership
->
+> All armed forces are to prepare *Pangea* for combat. Defensive and expulsion measures are hereby authorized against hostiles interfering with *Pangea*'s normal operations. This order invokes ITAM & Co. contingency order number 2 section 21 article b authorizing the Executive Leadership with emergency powers. The specifics of this order are:  
+> - to place CEO Alexandra More as overall head of ITAM & Co. military forces  
+> - to grant a field commission in the military forces to Director Belloc  
+> - to deem the Oversight Committee unfit for command and to immediately detain all members  
+> - to seize all Proctor assets and placed under the supervision of the Executive Leadership  
+>  
 > By order of the ITAM & Co. Executive Leadership.  
 
 ---
@@ -367,7 +367,3 @@ None of this registered; his mind was a singular focus.
 His induction as the Proctor would be a baptism of blood. His ascension would be seen only in his victory. There was no more running.
 
 He was going to have to fight.
-
----
-
-Copyright <script type="text/javascript">document.write(new Date().getFullYear());</script> John Forstmeier

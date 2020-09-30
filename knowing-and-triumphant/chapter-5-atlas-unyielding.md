@@ -296,7 +296,3 @@ He screamed but couldn't hear it.
 His body shook violently but he couldn't feel it.
 
 And then everything went black.
-
----
-
-Copyright <script type="text/javascript">document.write(new Date().getFullYear());</script> John Forstmeier

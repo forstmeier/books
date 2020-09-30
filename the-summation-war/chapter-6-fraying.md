@@ -1,11 +1,11 @@
-> Memorandum
-> Lewis, Oliver - Secretary
->
-> \| Operation \| Status \| Instruction                                           \|
-> \|\-\-\-\-\-\-\-\-\-\-\-\|\-\-\-\-\-\-\-\-\|\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\|
-> \| Church    \| Active \| Transfer command resources on heartbeat event failure \|
-> \| Simmons   \| Active \| Begin retrieval when signal arrives                   \|
-> \| Caboose   \| Active \| Submit penultimate message on heartbeat event failure \|
+> Memorandum  
+> Lewis, Oliver - Secretary  
+>  
+> \| Operation \| Status \| Instruction                                           \|  
+> \|\-\-\-\-\-\-\-\-\-\-\-\|\-\-\-\-\-\-\-\-\|  \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\|  
+> \| Church    \| Active \| Transfer command resources on heartbeat event failure \|  
+> \| Simmons   \| Active \| Begin retrieval when signal arrives                   \|  
+> \| Caboose   \| Active \| Submit penultimate message on heartbeat event failure \|  
 
 ---
 
@@ -200,7 +200,3 @@ Suddenly, she skipped backwards and with a smooth boosted backflip hopped up ont
 To his surprise when she came back into view, she was standing with her sword at her side, her shoulder pointed towards him and looking him in the eye. He paused taken aback at her inaction and lack of guard. No mercy, just surprise at the tactic.
 
 Before he could react or continue his halted swing, she pivoted inwards towards him, her gauntleted hand smashed into his face and everything went black.
-
----
-
-Copyright <script type="text/javascript">document.write(new Date().getFullYear());</script> John Forstmeier

@@ -1,11 +1,11 @@
-> d130e1edd68879f209ff05b3e8f0f9773a8a6e5a > ./parse :: Are there any suspicions currently?
-> 0ddace8851f7ebfb40dd340238afd79dd910d563 > ./parse :: Nothing specific but we are on high alert
-> a94259e0c0eeb301951b76cbf4a5efe0122574b3 > ./parse :: They will likely find the mole soon
-> 3c918050990b7dbc86fc490f947ecbf41cc1831d > ./parse :: The investigation has provided cover
-> 619b23b619c3e76eb43cdcf5a57d0cd5ad9a96d2 > ./parse :: But we should expect an uncovering soon; a sloop will be positioned for retrieval
-> a38d28220001ad56ef9bd1c58c465b728eb42a6d > ./parse :: Yes, sir
-> 101fc69b903da0973297530de64e7fffd8b46053 > ./parse :: This is for his benefit, not ours
-> 87547406c53a56be6400cceba0ca035bb4d19905 > ./parse :: Yes, sir
+> d130e1edd68879f209ff05b3e8f0f9773a8a6e5a > ./parse :: Are there any suspicions currently?  
+> 0ddace8851f7ebfb40dd340238afd79dd910d563 > ./parse :: Nothing specific but we are on high alert  
+> a94259e0c0eeb301951b76cbf4a5efe0122574b3 > ./parse :: They will likely find the mole soon  
+> 3c918050990b7dbc86fc490f947ecbf41cc1831d > ./parse :: The investigation has provided cover  
+> 619b23b619c3e76eb43cdcf5a57d0cd5ad9a96d2 > ./parse :: But we should expect an uncovering soon; a sloop will be positioned for retrieval  
+> a38d28220001ad56ef9bd1c58c465b728eb42a6d > ./parse :: Yes, sir  
+> 101fc69b903da0973297530de64e7fffd8b46053 > ./parse :: This is for his benefit, not ours  
+> 87547406c53a56be6400cceba0ca035bb4d19905 > ./parse :: Yes, sir  
 
 ---
 
@@ -170,7 +170,3 @@ A claxon sounded overhead.
 "ALL PERSONNEL: BATTLE STATIONS THIS IS NOT A DRILL REPEAT BATTLE STATIONS THIS IS NOT A DRILL"
 
 Doyle and Peter shared a look. The opening moves were over. They were officially in the middle of the game.
-
----
-
-Copyright <script type="text/javascript">document.write(new Date().getFullYear());</script> John Forstmeier

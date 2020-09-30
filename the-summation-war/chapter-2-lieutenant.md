@@ -1,18 +1,18 @@
-> From: oliver.lewis@clearwater.com
->
-> To: oliver.lewis@clearwater.com
->
-> CC: leadership-group
->
-> Subject: Announcement
->
-> All,
->
-> Today the official announcement will be delivered to the designated parties and the public press release will be issued. Additional information is available in the attached encrypted file.
-> Begin your respective operations as per prior discussions following the announcement.
->
-> Best,
-> Lewis
+> From: oliver.lewis@clearwater.com  
+>  
+> To: oliver.lewis@clearwater.com  
+>  
+> CC: leadership-group  
+>  
+> Subject: Announcement  
+>  
+> All,  
+>  
+> Today the official announcement will be delivered to the designated parties and the public press release will be issued. Additional information is available in the attached encrypted file.  
+> Begin your respective operations as per prior discussions following the announcement.  
+>  
+> Best,  
+> Lewis  
 
 ---
 
@@ -181,7 +181,3 @@ Silence fell again as all those in the room knew the enormity of what they were 
 Peter's heart sank. He knew that everyone in the room realized that Lewis was not only a powerful leader but the mentor to the most powerful asset that they had - himself. They were up against someone who knew Peter better than he knew himself.
 
 He had become a liability.
-
----
-
-Copyright <script type="text/javascript">document.write(new Date().getFullYear());</script> John Forstmeier

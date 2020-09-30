@@ -4,7 +4,7 @@
 > > **INTERVIEWER**: \<redacted\>  
 > > **INMATE**:      \<redacted\>  
 >  
-> ---
+> ---  
 > Begin transcript...  
 >  
 > \<INMATE\>:  I'd almost forgotten what you looked like  
@@ -183,7 +183,3 @@ There stood another glowing hologram of Lewis. Millie reappeared shaking her hea
 The hologram snapped off and the room erupted into hubbub but Peter couldn't hear any of it over the ringing in his own ears. All he could think of was Arthur. This was more than a betrayal. His oldest friend was lost.
 
 Had he ever really been his friend?
-
----
-
-Copyright <script type="text/javascript">document.write(new Date().getFullYear());</script> John Forstmeier
