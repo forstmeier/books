@@ -82,7 +82,7 @@ notes:
         - http://www.qss.org/archives/aqeedah/1.html
 
 notes: (dialogue)
-Ancient man, as he looked out upon the raw earth of yesterday, stared about in awe and fear.  He was at the utter mercy of the world and he pleaded to mother earth for survival.  Offerings of any and all things were made; sacrifices were conducted; the world consumed man as she wished.  But then I came.  I am not merely a focal point of man’s creative impetus.  I am his utter vengeance upon mother earth.  For all that she has done and all that she will yet try to do, I will cut her to her core and let her bleed the untamed blood of creation.  Order will be imposed and earth will know her master.
+- Ancient man, as he looked out upon the raw earth of yesterday, stared about in awe and fear.  He was at the utter mercy of the world and he pleaded to mother earth for survival.  Offerings of any and all things were made; sacrifices were conducted; the world consumed man as she wished.  But then I came.  I am not merely a focal point of man’s creative impetus.  I am his utter vengeance upon mother earth.  For all that she has done and all that she will yet try to do, I will cut her to her core and let her bleed the untamed blood of creation.  Order will be imposed and earth will know her master.
 
 notes:
 - Title: Iconist Prophecy
@@ -102,7 +102,7 @@ notes:
     - Caelestis, “of heaven”
 
 notes: (discussion)
-Karina: “Every action mankind takes both good and evil, are merely the two feet it uses while traveling down a path of perfection.  With the good it finds solid ground on which it may place its weight, while with its bad it finds unsteady terrain unfit to support it and shifts weight back to the other appendage.  Both are equally useful in directing the path of human evolution and neither must be given more or less weight.  When it comes to human progress, we cannot overlook any means towards furthering the achievements of man.”
+- Karina: “Every action mankind takes both good and evil, are merely the two feet it uses while traveling down a path of perfection.  With the good it finds solid ground on which it may place its weight, while with its bad it finds unsteady terrain unfit to support it and shifts weight back to the other appendage.  Both are equally useful in directing the path of human evolution and neither must be given more or less weight.  When it comes to human progress, we cannot overlook any means towards furthering the achievements of man.”
 
 notes: (scene)
 - Homo syntheticus mastered the bridge between data/physical existence and transference between the two
@@ -226,3 +226,53 @@ notes: (epilogue)
             - From death, through life, with love
             - The end was decided long ago and we must find it
             - And when we do perhaps we will be vindicated; perhaps we will rise
+
+notes:
+iconian discussion arc:
+- [ ] introduction
+	- [ ] icon + iconians
+	- [ ] formalities + introductions
+	- [ ] note: tone iconians final/authoritative, not appeasing/flattering
+- [ ] world/beings review
+	- [ ] initially developed humans w/ itam
+	- [ ] biotech engineering constructed iconians
+	- [ ] constructed world using fast-time (?)
+	- [ ] setting example
+- [ ] current itam situation
+	- [ ] triggered death chairman lewis
+	- [ ] received state itam
+	- [ ] waited/monitored post-war
+	- [ ] proving moving away original itam mission
+	- [ ] our original mission
+- [ ] perfecting form
+	- [ ] icon culmination itam mission
+	- [ ] built perfect world
+	- [ ] spreading order rest existence
+	- [ ] rapidly expand human knowledge/evolution
+- [ ] transformation
+	- [ ] blending physical/digital worlds
+	- [ ] begin unlocking human limitations
+	- [ ] encourage both millie/peter transformations
+- [ ] purpose
+	- [ ] powerful force reserve
+	- [ ] either reveals following advances
+	- [ ] alternative brought correct course
+	- [ ] purging incorrect courses
+	- [ ] current environment instate original itam mission
+	- [ ] under iconian jusrisdiction
+	- [ ] scope all humanity
+- [ ] millie factor
+	- [ ] proctor primary resources for reclamation
+	- [ ] peter proven moving away path
+	- [ ] rebuilding itam into republic
+	- [ ] ancillary ai provided backup
+	- [ ] another means accessing itam resources
+- [ ] temptation
+	- [ ] correcting humanity course
+	- [ ] asserting dominance
+	- [ ] preventing continued horrors/atrocities
+- [ ] ultimatum
+	- [ ] join w/ influence/resources
+	- [ ] prevent unnecessary blodshed
+	- [ ] establish greater peace/propsperity
+- [ ] decision

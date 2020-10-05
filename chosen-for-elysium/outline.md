@@ -1,6 +1,7 @@
 # outline
 
 - ch. 1: the world comes to pyongyang
+    - intro: council meeting minutes (discussion/procedure - include minister titles)
     - growth years following lewisian war + additional internal/external conflicts
     - peter led reformation most serence confederacy of parliamentary autocephelates ("mscpa")
     - collection mini states both old earth nations + entities within itam, independent entities w/ proctor serving intermediary/guiding role
@@ -14,3 +15,22 @@
     - peter + bernard resolute facing darkness millie reluctantly agrees
     - don armor + travel command ship w/ several fleets/armies around/on pangea
     - prepares massive rift, executes rift, brings entire structure + resources to earth
+
+- ch. 2: (rename)
+
+    - earth in sky, fleets rising from pangea/falling from earth, directs battle in command center, glass floor "floating" in air above earth
+    - boards titan ("moai" w/ clear/blue appendages w/ "tatoo", weapons: electric blue "fire", physical strikes w/ arms/legs, telekinetic grips/blasts) drop through battlefield, strike juche tower, land in city
+    - empty/silent, prior observed data + silence realize entire population quartered in city, human shields
+    - strikes/falling debris killing thousands, thrown defensive, massive losses, retreat/pull away from earth
+    - hours later recouping, pulled pangea/fleets distance away, some probing nothing serious
+    - discussing war w/ millie, millie fully disenchanted, 
+    - 
+    - 
+    - 
+    - 
+
+
+
+
+
+

@@ -9,6 +9,253 @@ outline:
         - battle preparation + discussion w/ millie/bernard/council meeting (day 1)
         - millie growing discontent
         - invasion/attack begins
+    - new notes:
+        full outline:
+        - [ ] since fall lewis uprising fledgling republic formed
+        - [ ] peter helped build true landless nation
+        - [ ] seeking better itself/people
+        - [ ] shut down prior external itam operations
+        - [ ] pangea flourished main land holding
+        - [ ] peter himself stood down
+        - [ ] requested/established significantly reduced role
+        - [ ] small office/specific portfolio
+        - [ ] expanding special projects/missions
+        - [ ] subject ruling council w/ generous leeway
+        - [ ] "first servant" republic
+        - [ ] not all easy/peaceful
+        - [ ] nation like all others
+        - [ ] faced significant turmoil internally
+        - [ ] rebellious uprisings
+        - [ ] external threats numerous given history
+        - [ ] current focus burgeoning conflict
+        - [ ] peoples republic of asia attacking supply lines/outposts
+        - [ ] left remnant lewis operations
+        - [ ] consolidated/seized power in vacuum
+        - [ ] spread across into western asia
+        - [ ] extra-terrestrial holdings
+        - [ ] saw republic existential threats
+        - [ ] began attacking supply lines
+        - [ ] provoking confrontation
+        - [ ] republic attempted peaceful resolution
+        - [ ] clear conflict only solution
+        - [ ] republic issued declaration of war
+        - [ ] preparing upcoming battle
+        ---
+        - [ ] bridge _creature of splendid glory_
+        - [ ] bustle activity
+        - [ ] peter stood midst
+        - [ ] flutter chest/stomach
+        - [ ] always nervous before operations
+        - [ ] particular nervous this effort
+        - [ ] something done previously
+        - [ ] typically heat moment
+        - [ ] nothing this scale
+        - [ ] looking out bridge viewport
+        - [ ] expansive gallery displaying pangea distance w/ moonlet lunella nearby
+        - [ ] great fleet formed around moonlet
+        - [ ] millie appears
+        - [ ] m: nervous?
+        - [ ] p: like always
+        - [ ] m: me too
+        - [ ] p: still don't believe possible
+        - [ ] m: why would you say that?
+        - [ ] p: ai designed precludes physiological responses like that no body generate those chemicals
+        - [ ] m: you'd be surprised develops over time
+        - [ ] peter shook head
+        - [ ] millie + he tight working pair
+        - [ ] helped immensely reshape operations
+        - [ ] felt little rush nervousness
+        - [ ] little conversation briefly assuaged feeling
+        - [ ] hologram pinged in front of him
+        - [ ] waved hand response
+        - [ ] general doyle appeared
+        - [ ] promoted rank general of the armies following reorganization
+        - [ ] leading fully effort
+        - [ ] d: proctor
+        - [ ] p: general
+        - [ ] d: all units are in position, fleet-wide notice momentarily, are you ready?
+        - [ ] deep breath
+        - [ ] p: yes ma'am
+        - [ ] doyle nodded
+        - [ ] d: excellent
+        - [ ] hologram disappeared
+        - [ ] all lights dimmed
+        - [ ] red running lights came on
+        - [ ] robotic voice over intercom
+        - [ ] alert: battle stations
+        - [ ] alert: all personnel prepare rift, all personnel prepare rift
+        - [ ] alert: battle stations
+        - [ ] crewmembers swiftly fell into places
+        - [ ] eyes turned towards peter
+        - [ ] now standing alone middle observation floor
+        - [ ] stars falling away below him through glass
+        ---
+        - [ ] d: (over intercom) all vessels prepare for rift, on my mark
+        - [ ] peter closed his eyes
+        - [ ] d: three
+        - [ ] deep breath in
+        - [ ] d: two
+        - [ ] breathed out
+        - [ ] d: one
+        - [ ] breathed in again raised hands
+        - [ ] d: mark
+        - [ ] peter reached out
+        - [ ] felt millie helping extend exertion
+        - [ ] split second dark smoke whipped out around him
+        - [ ] snapped through bulkheads
+        - [ ] consumed fleet then lunella w/o pause
+        - [ ] instant consumed dark smoke nothing visible
+        - [ ] another instant dissipated
+        - [ ] no longer above pangea
+        - [ ] full sphere earth below them
+        - [ ] far closer than ever should be
+        - [ ] entire lunella hovering just beyond atmosphere
+        - [ ] out window no longer blackness space
+        - [ ] familiar blue sky surrounding
+        - [ ] below them eastern asia
+        - [ ] russia, china and japan stretched out below them
+        - [ ] korean peninsula destination
+        - [ ] somewhat jarring sudden change scenery
+        - [ ] without skipping beat doyle barking intercom
+        - [ ] d: all vessels, engage assault
+        - [ ] immediately fleet began dropping away lunella
+        - [ ] short-distance troop transports lifted from surface
+        - [ ] treating moon operations base
+        - [ ] falling republic forces immediately met opposing fleet
+        - [ ] proa prepared w/ declaration of war
+        - [ ] larger military than republic
+        - [ ] not expecting immediate assault capital
+        - [ ] still ample forces repel surprise attack
+        - [ ] needed press advantage
+        - [ ] doyle appeared hologram again
+        - [ ] d: proctor, are you alright?
+        - [ ] p: yes, ma'am
+        - [ ] d: good, assume command of the (x) battle group as planned
+        - [ ] peter summoned swarm holograms around self
+        - [ ] soldiers + enemies marked red and blue
+        - [ ] providing bird's eye view directives
+        - [ ] battle raged on
+        - [ ] paused look down through glass floor below him
+        - [ ] ship dipping directly engage firefight
+        - [ ] below but coming closer
+        - [ ] trading blasts + explosions
+        - [ ] calmly observing through glass floor
+        - [ ] world opening up below him
+        ---
+        - [ ] eventually millie materialized next to him
+        - [ ] helping him provide guidance
+        - [ ] invisibly/silently behind
+        - [ ] something drawn attention
+        - [ ] m: we have a problem
+        - [ ] peter lowered hands from holograms
+        - [ ] turned regard images she pulling up
+        - [ ] m: they prepared for us
+        - [ ] p: what?
+        - [ ] m: well not this specific attack but attack on city
+        - [ ] zooms in hologram
+        - [ ] m: see that?
+        - [ ] peter scrutinized images before him
+        - [ ] p: looks like energy consumption chart
+        - [ ] m: yes, skyrocketed few weeks leading into declaration while conducting skirmishes
+        - [ ] p: residential
+        - [ ] m: yes
+        - [ ] p: brought citizens into capital, human shields
+        - [ ] m: every ship that drops from the sky killing thousands
+        - [ ] pointing below her
+        - [ ] peter thought grimly to himself
+        - [ ] p: need to take battle to ground sooner than anticipated, disable defenses + seize capital
+        - [ ] m: agreed (distracted voice)
+        - [ ] p: hey, you okay?
+        - [ ] m: yeah, astounding humans capable of, seen it so many times since activation, just...astounding
+        - [ ] peter looked at her worriedly
+        - [ ] no time prime ai become distant from focus battle
+        - [ ] p: which ship is the bernard company located?
+        - [ ] millie shook head
+        - [ ] as if casting away thoughts
+        - [ ] m: onboard "great paraklesis"
+        - [ ] p: prepare shuttle, rendezvous there, begin drawing up attack pattern, need surgical strike teams, too heavily defended anti-aircraft placements
+        - [ ] short while later  fully battle ready + onboard shuttle
+        - [ ] making darting run through upper levels fleet battle
+        - [ ] arrived "great parakelsis"
+        - [ ] quickly boarded
+        - [ ] met fully battle-clad bernard
+        - [ ] same easy comfortable stance
+        - [ ] calm expression but focused
+        - [ ] b: proctor
+        - [ ] p: captain (salutes)
+        - [ ] b: (returns salute) company ready, received deployment instructions millie minutes ago, other tactical units similarly preparing across fleet
+        - [ ] p: if we're ready we'll deploy now
+        - [ ] bernard turned walked into ship + tapped earpiece
+        - [ ] b: company prepare for jump
+        - [ ] halls quickly bustling company
+        - [ ] forming up docking ports along hull
+        - [ ] two by two
+        - [ ] peter stepped to front w/ bernard
+        - [ ] peter nodded
+        - [ ] bernard tapped earpiece
+        - [ ] b: captain seal boarding hallways
+        - [ ] captain: acknowledged
+        - [ ] moment later doors back along hall beyond company closed
+        - [ ] b: helmets!
+        - [ ] all placed helmets + sealed
+        - [ ] b: depressurize + open bay doors
+        - [ ] whoosh air left hall
+        - [ ] door before them slid open
+        - [ ] looking out onto battle
+        - [ ] b: jumping on mark
+        - [ ] nods back to peter
+        - [ ] b: mark
+        - [ ] together leaped out doorway into space
+        ---
+        - [ ] fall through battle scene
+        - [ ] most further off but some engagements closer
+        - [ ] fighters zooming back and forth
+        - [ ] small capital ship falling towards
+        - [ ] hull breach followed explosion fuel or ammunition
+        - [ ] team jumps through inferno/wreckage
+        - [ ] continue descent towards city
+        - [ ] began batter increasingly dense atmosphere
+        - [ ] dropping lower and lower
+        - [ ] anti-air flak popping around them
+        - [ ] towards city notices towering stucture
+        - [ ] monument supposedly people predecessor proa
+        - [ ] peter activates comm
+        - [ ] p: "creature", captain target structure marked
+        - [ ] extends hand + hologram shows highlight
+        - [ ] moments later great streaks light from cannon blasts slam into tower
+        - [ ] topples over as if in slow motion
+        - [ ] peter smiled himself
+        - [ ] unnecessary but felt good
+        - [ ] ground swiftly approaching
+        - [ ] last second engaged jets rapid deceleration
+        - [ ] team dropped in around him
+        - [ ] first noticed completely silent
+        - [ ] second every single window covered
+        - [ ] obscuring people inside trapped like animals
+        - [ ] peter no time feel fury predicament
+        - [ ] enemy forces burst around corner
+        - [ ] NOTE: expand here
+            - [ ] fight + bigs drop in
+            - [ ] brief pause + attacked
+            - [ ] map local targets + running battle
+            - [ ] tired rift + remains vehicle
+            - [ ] bernard lead charge + attack + destroy gun post
+            - [ ] reports other strike force successes
+        - [ ] peter about leap after bernard towards next target
+        - [ ] millie appeared look worry on face
+        - [ ] m: you need to return to pangea immediately
+        - [ ] p: why? what is it?
+        - [ ] m: received message, entirely unknown source, similar markings earliest ITAM, unknown/unexplored region space, need see it for yourself
+        - [ ] peter surprised nodded + summoned gunship
+        ---
+        - [ ] return "creature"
+        - [ ] listen incoming transmission
+        - [ ] request proctor + ancillary
+        - [ ] alert doyle situation
+        - [ ] higher priority potential security risk
+        - [ ] approved exit battlefront
+        - [ ] return onboard "creature" to pangea
+        - [ ] discussion + bed
     - notes:
         - prologue:
             - period growth
@@ -115,6 +362,101 @@ outline:
         - receive message/alert
         - millie leaves investiate
         - christen/embark _courage_ (day 3)
+    - new notes:
+        - [ ] embarking
+            - [ ] wake/dress, travel to edge dock, brief discussion along way
+            - [ ] awoke proctor estate
+            - [ ] small residential/office compound within city limits
+            - [ ] still preferred cloistering self away
+            - [ ] night before arranged ship/accompanying fleet
+            - [ ] departure would also be christening
+            - [ ] expecting small "walking" celebration
+            - [ ] donning more official robes
+            - [ ] preferred simple black w/ white under shirts
+            - [ ] black ceremonial role hat
+            - [ ] board enclosed ground skiff
+            - [ ] millie appears + discuss what to expect
+            - [ ] unsure path forward
+            - [ ] atmosphere visibility becoming lighter (less dark blue)
+        - [ ] arrive, embark w/ celebration for victory/new christening
+            - [ ] coming edge pangea w/ courage eternal docked off side
+            - [ ] step out onto carpeted walkway surrounded cheering crowds
+            - [ ] major blow against proa despite tactical retreat but war not over
+            - [ ] celebrating christening as well
+            - [ ] largest single vessel built republic
+            - [ ] huge independent warship
+            - [ ] capable mounting defenses outposts long-term
+            - [ ] mobile base operations
+            - [ ] walked down raising hand w/ small gestures acknowledgment
+            - [ ] small podium w/ champagne swings + smashes cheers erupt
+            - [ ] turns steps down walks remainder way
+            - [ ] bottom walkway turns raises both hands + turns walks up walkway into ship
+        - [ ] meet captain, watch liftoff
+            - [ ] walk through to bridge
+            - [ ] bernard standing + waiting
+            - [ ] captain steps forward + introduces self
+            - [ ] served alongside peter battle of jerusalem
+            - [ ] looking forward serving again voyage
+            - [ ] peter walks observation deck on bridge
+            - [ ] similar glass floor where directed battle of pyongyang
+            - [ ] stretching out before edge of pangea
+            - [ ] sunlight grassland + edge of blue space side by side
+            - [ ] captain calls prepare launch
+            - [ ] ship pushes off from land
+            - [ ] slowly pivots up + arcs out over land
+            - [ ] swings out over crowd
+            - [ ] peter raises hand acknowledgment
+            - [ ] bow points up + over pangea towards stars
+            - [ ] slowly boosts away in edge upper atmosphere
+        - [ ] settle in, move away from pangea, wait small escort fleet
+        - [ ] move into open space
+        - [ ] replay message + loop captain/bernard into situation
+        - [ ] previously sealed mission
+        - [ ] recommends placing additional fleet resources on alert
+        - [ ] agree + arrange
+        - [ ] peter discuss w/ millie
+        - [ ] atrocities weighing mind
+        - [ ] deeper concerns overall mission
+        - [ ] role humans world given decisions/actions
+        - [ ] leaves meditate through voyage
+        - [ ] fly rendezvous point remainder day
+        - [ ] dinner w/ captain/officers
+        - [ ] invited official dinner w/ captain + officers
+        - [ ] dresses robes + attends
+        - [ ] anteroom w/ officers waiting entrance
+        - [ ] bernard appears in formal wear
+        - [ ] peter astounded look
+        - [ ] bernard walks over
+        - [ ] peter bows as she approaches
+        - [ ] bernard blushes slightly first ever show off-guards
+        - [ ] quiet pleasantries + accepted into dinner
+        - [ ] seated near captain
+        - [ ] discuss general pleasantries + specifics courage eternal
+        - [ ] private discussion w/ bernard
+            - [ ] officer confronts w/ old legend circulating
+            - [ ] "chairman's due"
+            - [ ] dangerous + challenges possible lewis resurgence
+            - [ ] if so possibly facing insurmountable odds given prior experience
+            - [ ] dinner ends
+            - [ ] small groups split off
+            - [ ] bernard looking observation window
+            - [ ] peter joins
+            - [ ] discuss life away battlefield
+            - [ ] different things would be otherwise
+            - [ ] sings little song
+            - [ ] peter thinks something else there
+        - [ ] small discussion w/ captain in study
+            - [ ] captain interrupts + invites to study
+            - [ ] drinks sit around fire
+            - [ ] call millie in
+            - [ ] inquire what encountering
+            - [ ] unable/unwilling share
+            - [ ] officers uneasy
+            - [ ] mission into unknown space
+            - [ ] receiving message unknown source
+            - [ ] bearing proctor/ai
+            - [ ] cause concern
+            - [ ] unable provide information
     - notes:
         - embark scene:
             - when leaving Earth
@@ -186,6 +528,15 @@ outline:
         - arrival on icon + descent to planet (day 7)
         - millie revealed
     - notes:
+        - [ ] announce approaching, observe icon, met/escorted
+            - [ ] drop from hyperspace short distance
+            - [ ] dark space w/ blue stars
+            - [ ] great dark cloud before them
+            - [ ] nestled within dark planet
+            - [ ] two battleships moving towards them
+            - [ ] arc above/below _courage_
+            - [ ] form up alongside
+            - [ ] begin guide in towards planet
         - Icon is a mechanical planet (like Treasure Planet) that is surrounded by a swarm of ships/equipment that looks like dust (like Krikkit).
         - dinner scenes:
             - after lift off
