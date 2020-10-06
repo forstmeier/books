@@ -29,9 +29,6 @@ note: (use in discussion or intro)
 - This vision can be either singular or collective 
 - Man is the creative beast 
 
-note: 
-- Draw on own personal development / feelings to present Peter's transformation throughout the trilogy
-
 note: (intro)
 
 > Register of the Fleet of the Most Serene Confederacy of Autocephalates  
