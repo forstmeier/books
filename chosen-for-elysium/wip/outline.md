@@ -1,7 +1,10 @@
 # outline
 
 ## description
+
 This is a high-level outline that will eventually be built into a full outline. Once complete, a new doc will be created for the drafting process.
+
+## first outline
 
 - ch. 1
     - intro, meeting w/ council, discussion w/ millie (day 1)
@@ -24,3 +27,13 @@ This is a high-level outline that will eventually be built into a full outline. 
 - ch. 7
     - battle, icon being destroyed, duel (day 4)
     - millie defeated, peter dies, epilogue (day 4)
+
+## second outline
+
+- ch. 1
+- ch. 2
+- ch. 3
+- ch. 4
+- ch. 5
+- ch. 6
+- ch. 7
