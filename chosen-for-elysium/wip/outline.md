@@ -31,6 +31,16 @@ This is a high-level outline that will eventually be built into a full outline. 
 ## second outline
 
 - ch. 1
+    - post-war restructuring, growth/independence, form mscpa, proa forms in vacuum, challenges/attacks mscpa
+    - hologram council meeting, agree/finalize decision, send war declaration to proa
+    - walk proctor estate, thinking alone
+    - meet bernard, icon restoration discussion, foreshadow other icon
+    - meet w/ millie, presents alternative case, concerned war
+    - overrule/persuade reluctant millie, donning armor
+    - battle assembly, ground troops forming pangea, fleets nearby in atmosphere
+    - brief side discussion w/ bernard, concerned millie's resolve
+    - hologram finalization discussion w/ doyle, approved engage
+    - bridge scene, prepare rift, rift + battle begins
 - ch. 2
 - ch. 3
 - ch. 4

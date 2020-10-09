@@ -50,7 +50,7 @@ This is considered to be the _definitive_ dump for resources/data.
         - preparing upcoming battle
     - battle music
         - The music should be a humongous meld of orchestral and military drumming/piping. Think along the lines of Minstrel Boy meets Ode to Joy meets Vita Nostra. It would be designed to provide a common theme/backbone to the operation as well as a rhythm and choreography available only in music.
-    - icon rebuild scene
+    - icon restoration scene
         - note: this is foreshadowing the planet "icon"
         - human state
             - personal lives so individually driven 
