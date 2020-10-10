@@ -40,8 +40,18 @@ This is a high-level outline that will eventually be built into a full outline. 
     - battle assembly, ground troops forming pangea, fleets nearby in atmosphere
     - brief side discussion w/ bernard, concerned millie's resolve
     - hologram finalization discussion w/ doyle, approved engage
-    - bridge scene, prepare rift, rift + battle begins
+    - battleship bridge scene, prepare rift, rift + battle begins
 - ch. 2
+    - battle begins, transports/battleships launch, enemy fleet rises, engage 
+    - peter directing battle, standing glass observation deck, battle below, thinking (battle music?)
+    - millie joins, worried, shows movement/energy data, realize prepared human shields, most conflict w/i atmosphere, falling debris civilian casualities
+    - depart for adjacent ship, join bernard + team, jump
+    - fall/fight through battle, team protecting peter/millie, both "catching"/moving debris
+    - calls fighting retreat, suffering heavy losses, strikes juche tower
+    - (later) recouperating, thinking, after helped prepare defenses
+    - millie appears, informs/relays icon message
+    - discuss situation/alternatives/implications, lewis's involvement, next steps
+    - agree small battle group leave while battle continues
 - ch. 3
 - ch. 4
 - ch. 5

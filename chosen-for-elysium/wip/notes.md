@@ -273,6 +273,10 @@ This is considered to be the _definitive_ dump for resources/data.
             - allows for easier/less strenuous launches for the large ships
         - very flat/open with large expanses of concrete platforms
         - white/tan buildings and structures
+    - _courage_
+        - huge vessel
+        - hubris expected win battle
+        - decided begin attack prior to christening/launch
     - arrival along red carpet
         - celebrating initial strike even though not officially accomplish goals
         - also celebrating _courage_ largest vessel launched
