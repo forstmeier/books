@@ -53,6 +53,15 @@ This is a high-level outline that will eventually be built into a full outline. 
     - discuss situation/alternatives/implications, lewis's involvement, next steps
     - agree small battle group leave while battle continues
 - ch. 3
+    - prepare leave estate, speeder travel spaceport
+    - discussion w/ bernard/millie, see/describe _courage_
+    - arrival, carpet walk, christening, boarding
+    - meet captain, launch, flyover
+    - unseal mission w/ captain, millie departs (?)
+    - prepare dinner, meet w/ officers, see bernard formal dressed 
+    - dinner conversations, officer confronts, presents legend
+    - dinner ends, private discussion w/ bernard
+    - captain invites private lounge, warnings/discussion
 - ch. 4
 - ch. 5
 - ch. 6
