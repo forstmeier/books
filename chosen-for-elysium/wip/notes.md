@@ -344,6 +344,12 @@ This is considered to be the _definitive_ dump for resources/data.
             - shallow/clear seas
             - snow regions have molten lava running through them
         - surrounded by massive mechanical cloud
+        - alternative:
+            - more like treasure planet
+            - some "internals" showing through
+            - relatively small planet
+            - large constructs floating in very low atmosphere
+            - lots of "integrations" w/ floating constructs dipping into holes in crust
     - activated by chairman (lewis) death as contingency
     - dialogue:
         - Man is perpetually attempting to change his environment 

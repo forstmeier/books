@@ -63,6 +63,15 @@ This is a high-level outline that will eventually be built into a full outline. 
     - dinner ends, private discussion w/ bernard
     - captain invites private lounge, warnings/discussion
 - ch. 4
+    - meet fleet + jump (brief), peter thinks
+    - drop distance away, approach 
+    - biotech planet, surrounded swarm, frigates intercept/accompany
+    - analysis/descriptions for planet/swarm as approaching planet
+    - receive docking coordinates, "dock" in air, peter disembarks on shuttle
+    - meets iconians, peter inspects/thinks to himself, brief introductions
+    - board iconian skiff, fly over terrain, capital city, introduced iconian leader
+    - discusses mission, reason for contact/activation, calling resources for correction
+    - announce entrance, figure steps forward, millie revealed
 - ch. 5
 - ch. 6
 - ch. 7
