@@ -73,5 +73,26 @@ This is a high-level outline that will eventually be built into a full outline. 
     - discusses mission, reason for contact/activation, calling resources for correction
     - announce entrance, figure steps forward, millie revealed
 - ch. 5
+    - group discussion, millie explains contact + situation, walk capital "machu pichu" city
+    - met iconians, prophecy explained her, crowned as iconodule w/ peter as iconoclast
+    - her decision w/ authority, small team travels for anointing
+    - fly over w/ platform/skiff, discuss construction
+    - arrive "meteora" monastery, aesthetics
+    - describe anointing requirement, "caelestis", millie/peter agree
+    - millie first, revealed as physical, surprise all
+    - peter next, full painful experience, emerges w/ digital aspects
 - ch. 6
+    - both recovering, peter tells prep battle, underground location set fallback
+    - peter/millie/doge leave separately, fly over w/ "wings"
+    - peter + millie private conversation mountain, millie brief moment alone
+    - three meet stone outcropping, final arguments
+    - millie thinks + declares intent purge human emotion, preserve intellect, impose order
+    - attacks peter, peter escapes, depressed thoughts in bunker
 - ch. 7
+    - meets team bunker, bernard consoles, team departs
+    - rise through bunker, assemble armor, observe/jump into battle
+    - duels doge, killed by peter
+    - bernard duels millke, possessed, peter duels, injures + drives out
+    - team destroys icon core, planet collapsing/destroying, armies evacuate
+    - peter + millie duel, kills, absorbs, remains on planet + dies
+    - epilogue monastery resources recovered, peter reborn
