@@ -2,11 +2,11 @@
 
 > Memorandum  
 > Lewis, Oliver - Secretary  
-> \| Operation \| Status \| Instruction \|  
-> \|-----------\|--------\| -------------------------------------------------------\|  
-> \| Church \| Active \| Transfer command resources on heartbeat event failure \|  
-> \| Simmons \| Active \| Begin retrieval when signal arrives \|  
-> \| Caboose \| Active \| Submit penultimate message on heartbeat event failure \|
+> | Operation | Status | Instruction |  
+> |-----------|--------| -------------------------------------------------------|  
+> | Church | Active | Transfer command resources on heartbeat event failure |  
+> | Simmons | Active | Begin retrieval when signal arrives |  
+> | Caboose | Active | Submit penultimate message on heartbeat event failure |  
 
 The war was in its final stages. Just a week after Arthur's death, Lewis had all but completed his consolidation of power. Pockets of nations and factions still existed within his territory, both large and small, but overall Lewis had a strong hold on the situation. Those that remained outside of his control were in utter chaos.
 

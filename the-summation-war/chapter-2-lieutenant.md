@@ -4,11 +4,14 @@
 > To: oliver.lewis@clearwater.com  
 > CC: leadership-group  
 > Subject: Announcement  
+>  
 > All,  
+>  
 > Today the official announcement will be delivered to the designated parties and the public press release will be issued. Additional information is available in the attached encrypted file.  
 > Begin your respective operations as per prior discussions following the announcement.  
+>  
 > Best,  
-> Lewis
+> Lewis  
 
 Sunrise greeted the group as they awoke and went about a quick breakfast. After gathering a few things for the trip the two humans and their two artificial companions boarded the skiff and set off for Port Sendler. It was more small and compact, rather functionally industrial in its layout, but served its purpose well. Not that it mattered as there was little time for sightseeing.
 

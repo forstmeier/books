@@ -10,7 +10,7 @@
 > combined body of combatant and non-combatant members of I.T.A.M.  
 > This broadcast will be made available on I.T.A.M. network reserved channel.  
 > You are hereby REQUESTED and REQUIRED to receive this broadcast at the stated time.  
-> END
+> END  
 
 Peter's eyes opened. He was in a clean, white environment laying on a gurney dressed in a medical gown.
 
