@@ -2,13 +2,13 @@
 
 > Addendum to the Prophecies of the Proctor  
 > Among the many difficulties facing the coming Proctor, three shall stand out as the greatest challenges.  
-> These three will create perspectives on the role and its position in human history.
+> These three will create perspectives on the role and its position in human history.  
 >
 > * The first shall be told about the Proctor  
 > * The second will be written for the Proctor  
 > * The third will be crafted by the Proctor  
->
->   And in facing these, the Proctor will grow to the benefit of all.
+>  
+> And in facing these, the Proctor will grow to the benefit of all.  
 
 Peter's helmet retracted from his face and down into his upper armor plates. Inside the Mover was cool and a steady rumble of machinery could be heard behind the hallway walls. These corridors were clearly more functional; exposed metal plates and pipes could be seen as the pair moved quickly deeper into the belly of the beast. After passing through several of these tunnels they came to a more "finished" section with sleek black floors and white walls.
 

@@ -1,6 +1,7 @@
 # Chapter 5: Atlas Unyielding
 
 > Begin transcript...  
+>  
 > More: Apparently, communications are coming back onl-\(\*static\*\) but it appears to be \(\*static\*\) at best.  
 > Belloc: Clearly.  
 > More: \(\*static\*\) It's been over twelve hours since Lewis got away. We need to find them immediately.  
