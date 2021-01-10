@@ -1,15 +1,16 @@
 # Chapter 1: Birthday
 
 > Order form - receipt summary  
-> Order number: SH-335c  
+> Order number:   SH-335c  
 > Procedure type: Biological engineering  
-> Assigned team: Applied Medicine  
-> Project lead: Dr. Gregory Belloc, M.D.  
-> Location: Match Factory Place, Fl. 42  
-> Description: Proctor Hopeful candidate  
-> Signatory: Oliver Lewis, Chairman  
+> Assigned team:  Applied Medicine  
+> Project lead:   Dr. Gregory Belloc, M.D.  
+> Location:       Match Factory Place, Fl. 42  
+> Description:    Proctor Hopeful candidate  
+> Signatory:      Oliver Lewis, Chairman  
+>  
 > NOTE: RETAIN FOR CORPORATE RECORDS  
-> NOTE: RETAIN ORIGINAL DIGITAL COPY
+> NOTE: RETAIN ORIGINAL DIGITAL COPY  
 
 Damien sat in the locker room by himself quietly taking in his surroundings. Just several hours earlier he had awoken in a dim gray-blue laboratory, which was faintly illuminated by a storm outside, suspended in a large, clear, liquid-filled container. Everything was still very new.
 

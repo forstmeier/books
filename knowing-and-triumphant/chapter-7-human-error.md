@@ -1,6 +1,7 @@
 # Chapter 7: Human Error
 
 > Addendum to the Prophecies of the Proctor  
+>  
 > Among the many difficulties facing the coming Proctor, three shall stand out as the greatest challenges.  
 > These three will create perspectives on the role and its position in human history.  
 >

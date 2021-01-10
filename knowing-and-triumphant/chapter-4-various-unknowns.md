@@ -18,6 +18,7 @@
 >  
 > Regards,  
 > Leopold Card  
+>  
 > Attachment: --------------------------------------------------  
 > From: Leopold Card, Chairman of the Oversight Committee  
 > To: ITAM & Co. personnel of _Pangea_  

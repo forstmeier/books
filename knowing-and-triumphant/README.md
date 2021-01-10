@@ -1,2 +1,0 @@
-# Knowing And Triumphant
-

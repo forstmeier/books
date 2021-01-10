@@ -1,4 +1,4 @@
-# Introduction
+# Knowing And Triumphant
 
 > For Kaitlin
 
