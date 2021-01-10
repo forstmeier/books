@@ -2,6 +2,7 @@
 
 > { Commander's Log }  
 > { Update - appended to daily log }  
+>  
 > We are currently deploying reinforcements to our two flank engagements in this sub-theater.  
 > Northward deployment resources summary:  
 >  
@@ -10,7 +11,7 @@
 > * 1st Infantry Brigade  
 > * 4th Mechanized Brigade  
 >  
->   Southward deployment resources summary:  
+> Southward deployment resources summary:  
 >  
 > * 3rd Fleet, _Ancients_, leading vessels: _Poulnabrone Dolmen_ \(flagship\), _Mo'ai_, _Sphinx_  
 > * 9th Mechanized Brigade  
