@@ -19,6 +19,9 @@ This is considered to be the _definitive_ dump for resources/data.
 - https://www.reddit.com/r/aviation/comments/a0y2xv/i_just_wish_everyone_could_have_a_view_this_good/ (flying through clouds)
 - https://www.reddit.com/r/pics/comments/ai70b7/i_have_very_humble_astrophotography_gear_but/ (blood moon)
 - https://www.reddit.com/r/EarthPorn/comments/bx0vnb/huge_storm_incoming_wetterau_germany_oc_1611x1920/ (storm over field)
+- https://www.reddit.com/r/woahdude/comments/82cyyq/long_exposure_photo_of_drones_circling_mountains/ (circles over mountains)
+- https://www.reddit.com/r/oddlysatisfying/comments/de6ct4/this_photo_of_the_moon_and_a_plane/ (moon)
+- https://www.reddit.com/r/StarWars/comments/ep1lbv/star_wars_legacy_by_rodfer/ (star wars posters)
 
 ## color
 
