@@ -13,6 +13,13 @@ This is considered to be the _definitive_ dump for resources/data.
     - Resolute Ideology, Equerry to the Doge, homo syntheticus, male
     - Total Absolution, Toture, homo syntheticus, female
 
+## links
+
+- https://www.reddit.com/r/woahdude/comments/9g7psh/burning_man/ (burning man mask)
+- https://www.reddit.com/r/aviation/comments/a0y2xv/i_just_wish_everyone_could_have_a_view_this_good/ (flying through clouds)
+- https://www.reddit.com/r/pics/comments/ai70b7/i_have_very_humble_astrophotography_gear_but/ (blood moon)
+- https://www.reddit.com/r/EarthPorn/comments/bx0vnb/huge_storm_incoming_wetterau_germany_oc_1611x1920/ (storm over field)
+
 ## color
 
 - ch. 1
