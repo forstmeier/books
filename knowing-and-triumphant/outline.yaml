@@ -53,6 +53,38 @@ chapters:
   - separator: ---
   - file_name: naming-peter.md
 - name: 'Chapter Four: Various unknowns'
+  contents:
+  - file_name: arrest-order.md
+  - separator: ---
+  - file_name: fleeing-the-scene.md
+  - separator: ---
+  - file_name: escaping-hua.md
+  - separator: ---
+  - file_name: demanding-return.md
+  - separator: ---
+  - file_name: discussing-escape.md
+  - separator: ---
+  - file_name: arthurs-assurance.md
+  - separator: ---
+  - file_name: confusing-conversation.md
+  - separator: ---
+  - file_name: escape-update.md
+  - separator: ---
+  - file_name: sense-of-scale.md
+  - separator: ---
+  - file_name: millies-challenge.md
+  - separator: ---
+  - file_name: observing-construction.md
+  - separator: ---
+  - file_name: closer-look.md
+  - separator: ---
+  - file_name: peters-role.md
+  - separator: ---
+  - file_name: viewing-a-mover.md
+  - separator: ---
+  - file_name: dinner-time.md
+  - separator: ---
+  - file_name: evening-discussion.md
 - name: 'Chapter Five: Atlas unyielding'
 - name: 'Chapter Six: When all else fails'
 - name: 'Chapter Seven: Human error'
