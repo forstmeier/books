@@ -32,6 +32,26 @@ chapters:
       - separator: ---
       - file_name: meeting-lewis.md
   - name: 'Chapter Three: The Machine'
+    contents:
+      - file_name: lewis-journal-entry.md
+      - separator: ---
+      - file_name: walking-in-hua.md
+      - separator: ---
+      - file_name: introducing-millie.md
+      - separator: ---
+      - file_name: assigning-millie.md
+      - separator: ---
+      - file_name: history-of-the-machine.md
+      - separator: ---
+      - file_name: seeing-the-machine.md
+      - separator: ---
+      - file_name: meeting-the-machine.md
+      - separator: ---
+      - file_name: responsibility-realization
+      - separator: ---
+      - file_name: naming-simon.md
+      - separator: ---
+      - file_name: naming-peter.md
   - name: 'Chapter Four: Various unknowns'
   - name: 'Chapter Five: Atlas unyielding'
   - name: 'Chapter Six: When all else fails'
