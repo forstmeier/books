@@ -1,58 +1,58 @@
 chapters:
-  - name: 'Chapter One: Birthday'
-    contents:
-      - file_name: proctor-order-receipt.md
-      - separator: ---
-      - file_name: first-memories.md
-      - separator: ---
-      - file_name: introducing-arthur.md
-      - separator: ---
-      - file_name: meeting-more.md
-      - separator: ---
-      - file_name: learning-the-mission.md
-      - separator: ---
-      - file_name: accepting-the-mission.md
-  - name: 'Chapter Two: Liftoff'
-    contents:
-      - file_name: oversight-chairman-letter.md
-      - separator: ---
-      - file_name: breakfast.md
-      - separator: ---
-      - file_name: feeling-the-rain.md
-      - separator: ---
-      - file_name: takeoff.md
-      - separator: ---
-      - file_name: bellocs-speech.md
-      - separator: ---
-      - file_name: lunar-flyby.md
-      - separator: ---
-      - file_name: approaching-pangea.md
-      - separator: ---
-      - file_name: touchdown-on-pangea.md
-      - separator: ---
-      - file_name: meeting-lewis.md
-  - name: 'Chapter Three: The Machine'
-    contents:
-      - file_name: lewis-journal-entry.md
-      - separator: ---
-      - file_name: walking-in-hua.md
-      - separator: ---
-      - file_name: introducing-millie.md
-      - separator: ---
-      - file_name: assigning-millie.md
-      - separator: ---
-      - file_name: history-of-the-machine.md
-      - separator: ---
-      - file_name: seeing-the-machine.md
-      - separator: ---
-      - file_name: meeting-the-machine.md
-      - separator: ---
-      - file_name: responsibility-realization
-      - separator: ---
-      - file_name: naming-simon.md
-      - separator: ---
-      - file_name: naming-peter.md
-  - name: 'Chapter Four: Various unknowns'
-  - name: 'Chapter Five: Atlas unyielding'
-  - name: 'Chapter Six: When all else fails'
-  - name: 'Chapter Seven: Human error'
+- name: 'Chapter One: Birthday'
+  contents:
+  - file_name: proctor-order-receipt.md
+  - separator: ---
+  - file_name: first-memories.md
+  - separator: ---
+  - file_name: introducing-arthur.md
+  - separator: ---
+  - file_name: meeting-more.md
+  - separator: ---
+  - file_name: learning-the-mission.md
+  - separator: ---
+  - file_name: accepting-the-mission.md
+- name: 'Chapter Two: Liftoff'
+  contents:
+  - file_name: oversight-chairman-letter.md
+  - separator: ---
+  - file_name: breakfast.md
+  - separator: ---
+  - file_name: feeling-the-rain.md
+  - separator: ---
+  - file_name: takeoff.md
+  - separator: ---
+  - file_name: bellocs-speech.md
+  - separator: ---
+  - file_name: lunar-flyby.md
+  - separator: ---
+  - file_name: approaching-pangea.md
+  - separator: ---
+  - file_name: touchdown-on-pangea.md
+  - separator: ---
+  - file_name: meeting-lewis.md
+- name: 'Chapter Three: The Machine'
+  contents:
+  - file_name: lewis-journal-entry.md
+  - separator: ---
+  - file_name: walking-in-hua.md
+  - separator: ---
+  - file_name: introducing-millie.md
+  - separator: ---
+  - file_name: assigning-millie.md
+  - separator: ---
+  - file_name: history-of-the-machine.md
+  - separator: ---
+  - file_name: seeing-the-machine.md
+  - separator: ---
+  - file_name: meeting-the-machine.md
+  - separator: ---
+  - file_name: responsibility-realization
+  - separator: ---
+  - file_name: naming-simon.md
+  - separator: ---
+  - file_name: naming-peter.md
+- name: 'Chapter Four: Various unknowns'
+- name: 'Chapter Five: Atlas unyielding'
+- name: 'Chapter Six: When all else fails'
+- name: 'Chapter Seven: Human error'
