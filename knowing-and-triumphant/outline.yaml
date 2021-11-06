@@ -13,6 +13,24 @@ chapters:
       - separator: ---
       - file_name: accepting-the-mission.md
   - name: 'Chapter Two: Liftoff'
+    contents:
+      - file_name: oversight-chairman-letter.md
+      - separator: ---
+      - file_name: breakfast.md
+      - separator: ---
+      - file_name: feeling-the-rain.md
+      - separator: ---
+      - file_name: takeoff.md
+      - separator: ---
+      - file_name: bellocs-speech.md
+      - separator: ---
+      - file_name: lunar-flyby.md
+      - separator: ---
+      - file_name: approaching-pangea.md
+      - separator: ---
+      - file_name: touchdown-on-pangea.md
+      - separator: ---
+      - file_name: meeting-lewis.md
   - name: 'Chapter Three: The Machine'
   - name: 'Chapter Four: Various unknowns'
   - name: 'Chapter Five: Atlas unyielding'

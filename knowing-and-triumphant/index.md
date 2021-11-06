@@ -14,7 +14,6 @@
 
 ## Reference sheet
 
-* **Leopold Card**, Chairman of the Oversight Committee
 * **Project SH-335c, Damien Damiano / Peter**, _Homo disposito_, Proctor
 * **Dr. Gregory Belloc M.D.**, Director of Applied Medicine
 * **T19-73 / Arthur**, HoSap Technologies _Adjudicator_-Model humanoid robotic assistant
@@ -22,6 +21,7 @@
 * **Oliver Lewis**, Chairman of the Board of Directors
 * **RT-03 / Millicent**, Artificial Intelligence, _Consul_-Class
 * **Project 001-6bba42, The Machine / Simon**, Predictive Processor Unit, _Augustus_-Class, Monitor
+* **Leopold Card**, Chairman of the Oversight Committee
 
 ## Contact
 
