@@ -137,3 +137,34 @@ chapters:
   - separator: ---
   - file_name: arrival-at-the-arbiter.md
 - name: 'Chapter Seven: Human error'
+  - file_name: prophecy-addendum.md
+  - separator: ---
+  - file_name: arbiter-cockpit.md
+  - separator: ---
+  - file_name: taking-the-controls.md
+  - separator: ---
+  - file_name: preparing-defenses.md
+  - separator: ---
+  - file_name: giants-collide.md
+  - separator: ---
+  - file_name: defending-the-bridge.md
+  - separator: ---
+  - file_name: defense-assist.md
+  - separator: ---
+  - file_name: mores-temptation.md
+  - separator: ---
+  - file_name: exiting-the-giant.md
+  - separator: ---
+  - file_name: attacking-bellocs-giant.md
+  - separator: ---
+  - file_name: peter-confronts-belloc.md
+  - separator: ---
+  - file_name: peter-fights-belloc.md
+  - separator: ---
+  - file_name: rejuvination.md
+  - separator: ---
+  - file_name: belloc-defeated.md
+  - separator: ---
+  - file_name: peter-victorious.md
+  - separator: ---
+  - file_name: epilogue.md
