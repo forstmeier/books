@@ -73,6 +73,23 @@ chapters:
     - file_name: arthur-revealed.md
 - name: 'Chapter Five: Jerusalem'
   contents:
+    - file_name: commanders-log.md
+    - separator: ---
+    - file_name: war-recap.md
+    - separator: ---
+    - file_name: tactical-update.md
+    - separator: ---
+    - file_name: discussing-arthur.md
+    - separator: ---
+    - file_name: attack-begins.md
+    - separator: ---
+    - file_name: peters-objection.md
+    - separator: ---
+    - file_name: attacking-outpost.md
+    - separator: ---
+    - file_name: killing-arthur.md
+    - separator: ---
+    - file_name: more-returns.md
 - name: 'Chapter Six: Fraying'
   contents:
 - name: "Chapter Seven: The Field Marshal's speech"
