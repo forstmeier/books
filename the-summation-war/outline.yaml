@@ -111,3 +111,30 @@ chapters:
     - file_name: peter-vs-bernard.md
 - name: "Chapter Seven: The Field Marshal's speech"
   contents:
+    - file_name: general-communique.md
+    - separator: ---
+    - file_name: recovery.md
+    - separator: ---
+    - file_name: offered-forgiveness.md
+    - separator: ---
+    - file_name: lewis-final-message.md
+    - separator: ---
+    - file_name: speech.md
+    - separator: ---
+    - file_name: battle-lines.md
+    - separator: ---
+    - file_name: missiles-launch.md
+    - separator: ---
+    - file_name: meeting-more.md
+    - separator: ---
+    - file_name: more-showdown.md
+    - separator: ---
+    - file_name: ship-catch.md
+    - separator: ---
+    - file_name: more-killed.md
+    - separator: ---
+    - file_name: deadman-switch.md
+    - separator: ---
+    - file_name: final-moves.md
+    - separator: ---
+    - file_name: epilogue.md
