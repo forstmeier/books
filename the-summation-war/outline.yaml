@@ -58,6 +58,19 @@ chapters:
     - file_name: first-move-explained.md
 - name: 'Chapter Four: Chameleon'
   contents:
+    - file_name: redacted-transcript.md
+    - separator: ---
+    - file_name: bernards-orders.md
+    - separator: ---
+    - file_name: initial-battle.md
+    - separator: ---
+    - file_name: remaining-battle.md
+    - separator: ---
+    - file_name: scope-revealed.md
+    - separator: ---
+    - file_name: unification-announcement.md
+    - separator: ---
+    - file_name: arthur-revealed.md
 - name: 'Chapter Five: Jerusalem'
   contents:
 - name: 'Chapter Six: Fraying'
