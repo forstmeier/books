@@ -22,6 +22,21 @@ chapters:
     - file_name: peter-accepts.md
 - name: 'Chapter Two: Lieutenant'
   contents:
+    - file_name: press-release-message.md
+    - separator: ---
+    - file_name: leaving-pangea.md
+    - separator: ---
+    - file_name: moon-arrival.md
+    - separator: ---
+    - file_name: meeting-george.md
+    - separator: ---
+    - file_name: meeting-bernard.md
+    - separator: ---
+    - file_name: seeing-bigs.md
+    - separator: ---
+    - file_name: joining-scipio.md
+    - separator: ---
+    - file_name: lewis-message.md
 - name: 'Chapter Three: Bigs and Smalls'
   contents:
 - name: 'Chapter Four: Chameleon'
