@@ -86,5 +86,27 @@ chapters:
   - separator: ---
   - file_name: evening-discussion.md
 - name: 'Chapter Five: Atlas unyielding'
+  contents:
+  - file_name: communications-transcript.md
+  - separator: ---
+  - file_name: breakfast-interrupted.md
+  - separator: ---
+  - file_name: arrival-at-scholl.md
+  - separator: ---
+  - file_name: reunited-with-more.md
+  - separator: ---
+  - file_name: belloc-and-order.md
+  - separator: ---
+  - file_name: differing-perspectives.md
+  - separator: ---
+  - file_name: transcendance-example.md
+  - separator: ---
+  - file_name: elevation-revealed.md
+  - separator: ---
+  - file_name: elevation-explained.md
+  - separator: ---
+  - file_name: elevation-considered.md
+  - separator: ---
+  - file_name: elevation-accepted.md
 - name: 'Chapter Six: When all else fails'
 - name: 'Chapter Seven: Human error'
