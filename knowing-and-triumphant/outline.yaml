@@ -109,4 +109,31 @@ chapters:
   - separator: ---
   - file_name: elevation-accepted.md
 - name: 'Chapter Six: When all else fails'
+  - file_name: arrest-orders.md
+  - separator: ---
+  - file_name: post-operation.md
+  - separator: ---
+  - file_name: dormant-capabilities.md
+  - separator: ---
+  - file_name: standoff-begins.md
+  - separator: ---
+  - file_name: change-in-plans.md
+  - separator: ---
+  - file_name: enter-card.md
+  - separator: ---
+  - file_name: more-vs-card.md
+  - separator: ---
+  - file_name: conspiracy-revealed.md
+  - separator: ---
+  - file_name: lines-drawn.md
+  - separator: ---
+  - file_name: lewis-attacks.md
+  - separator: ---
+  - file_name: escaping-the-confrontation.md
+  - separator: ---
+  - file_name: lewis-distraction.md
+  - separator: ---
+  - file_name: fleeing-scholl.md
+  - separator: ---
+  - file_name: arrival-at-the-arbiter.md
 - name: 'Chapter Seven: Human error'
