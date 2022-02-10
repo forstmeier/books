@@ -109,6 +109,7 @@ chapters:
   - separator: ---
   - file_name: elevation-accepted.md
 - name: 'Chapter Six: When all else fails'
+  contents:
   - file_name: arrest-orders.md
   - separator: ---
   - file_name: post-operation.md
@@ -137,6 +138,7 @@ chapters:
   - separator: ---
   - file_name: arrival-at-the-arbiter.md
 - name: 'Chapter Seven: Human error'
+  contents:
   - file_name: prophecy-addendum.md
   - separator: ---
   - file_name: arbiter-cockpit.md

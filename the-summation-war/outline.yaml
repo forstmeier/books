@@ -1,0 +1,34 @@
+chapters:
+- name: 'Chapter One: The Bodhi Tree'
+  contents:
+    - file_name: readme-intro.md
+    - separator: ---
+    - file_name: peters-office.md
+    - separator: ---
+    - file_name: incoming-visitors.md
+    - separator: ---
+    - file_name: visitor-preparations.md
+    - separator: ---
+    - file_name: doyle-arrives.md
+    - separator: ---
+    - file_name: rumblings.md
+    - separator: ---
+    - file_name: lewis-suspiscion.md
+    - separator: ---
+    - file_name: threat-awareness.md
+    - separator: ---
+    - file_name: peters-mission.md
+    - separator: ---
+    - file_name: peter-accepts.md
+- name: 'Chapter Two: Lieutenant'
+  contents:
+- name: 'Chapter Three: Bigs and Smalls'
+  contents:
+- name: 'Chapter Four: Chameleon'
+  contents:
+- name: 'Chapter Five: Jerusalem'
+  contents:
+- name: 'Chapter Six: Fraying'
+  contents:
+- name: "Chapter Seven: The Field Marshal's speech"
+  contents:
