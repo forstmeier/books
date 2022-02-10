@@ -39,6 +39,23 @@ chapters:
     - file_name: lewis-message.md
 - name: 'Chapter Three: Bigs and Smalls'
   contents:
+    - file_name: decrypted-message.md
+    - separator: ---
+    - file_name: training-begins.md
+    - separator: ---
+    - file_name: bernards-skills.md
+    - separator: ---
+    - file_name: company-adjustments.md
+    - separator: ---
+    - file_name: rumblings-grow.md
+    - separator: ---
+    - file_name: discussing-lewis.md
+    - separator: ---
+    - file_name: bernard-on-combat.md
+    - separator: ---
+    - file_name: lewis-first-move.md
+    - separator: ---
+    - file_name: first-move-explained.md
 - name: 'Chapter Four: Chameleon'
   contents:
 - name: 'Chapter Five: Jerusalem'
