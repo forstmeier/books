@@ -92,5 +92,22 @@ chapters:
     - file_name: more-returns.md
 - name: 'Chapter Six: Fraying'
   contents:
+    - file_name: contingency-memorandum.md
+    - separator: ---
+    - file_name: final-stages-recap.md
+    - separator: ---
+    - file_name: georges-defection.md
+    - separator: ---
+    - file_name: countering-defection.md
+    - separator: ---
+    - file_name: george-captured.md
+    - separator: ---
+    - file_name: lewis-killed.md
+    - separator: ---
+    - file_name: peters-massacre.md
+    - separator: ---
+    - file_name: peter-snaps.md
+    - separator: ---
+    - file_name: peter-vs-bernard.md
 - name: "Chapter Seven: The Field Marshal's speech"
   contents:
