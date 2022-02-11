@@ -179,7 +179,7 @@ The Mover stood several times taller than the altitude they were currently flyin
 
 "What do you mean?" asked Peter, surprised.  
 
-"She means that one of these is to be your base of operations," interjected Lewis. "Your connection to the ITAM network was placed in one, not this one though," he said gesturing towards the lumbering giant.  
+"She means that one of these is to be your base of operations," interjected Lewis. "Your first project will be overseeing the completion of _Pangea_."  
 
 "It's actually quite a striking look, your Mover" added Millie. "Painted all white with blue markings and a giant Seal of the Proctor across its shoulder. It's called the _Arbiter_."  
 
