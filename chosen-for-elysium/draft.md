@@ -1,83 +1,40 @@
-outline:
-- intro
-    - iconians:
-        - Symbiotic Restraint, Doge of Icon, homo syntheticus, female
-        - Resolute Ideology, Equerry to the Doge, homo syntheticus, male
-        - Total Absolution, Toture, homo syntheticus, female
-- ch. 1: the world comes to pyongyang
-    - outline:
-        - battle preparation + discussion w/ millie/bernard/council meeting (day 1)
-        - millie growing discontent
-        - invasion/attack begins
+- introduction
+	- characters
+		- peter
+		- millie
+		- bernard
+		- ship captain
+		- symbiotic restrait - doge, homo syntheticus, female
+		- resolute ideology - equerry, homo syntheticus, male (may not be needed)
+- full outline:
+	- chapter 1: battle prep, millie worries, battle begins
+	- chapter 2: battle continues, discover human shields, message + leave battle
+	- chapter 3: battle recap + victory, plan departure, millie leaves, christen, embark, dinner
+	- chapter 4: travel, arrive, meet iconians, millie revealed
+	- chapter 5: discussions, transformations, dinner
+	- chapter 6: preparations, discussion, ultimatum, descision, escape
+	- chapter 7: battle, showdown, epilogue
+- chapter 1:
 	- intro:
-		> Complete History of I.T.A.M. Inc. and Its Successor Entities
-		>
-		> Chapter 46: Interlude period prior to the PROA offensive
-		>
-		> Executive summary:
-
-        - since fall lewis uprising fledgling republic formed
-        - peter helped build true landless nation
-        - seeking better itself/people
-        - shut down prior external itam operations
-        - pangea flourished main land holding
-        - peter himself stood down
-        - formation most serence confederacy of independent autocephelates ("mscia")
-        - from existing earth nations/countries + extra-terrestrial colonies/nations
-        - requested/established significantly reduced role
-        - small office/specific portfolio
-        - expanding special projects/missions
-        - subject ruling council w/ generous leeway
-        - "first servant" republic
-        - not all easy/peaceful
-        - nation like all others
-        - faced significant turmoil internally
-        - rebellious uprisings
-        - external threats numerous given history
-        - current focus burgeoning conflict
-        - peoples republic of asia attacking supply lines/outposts
-        - left remnant lewis operations
-        - consolidated/seized power in vacuum
-        - spread across into western asia
-        - extra-terrestrial holdings
-        - saw republic existential threats
-        - began attacking supply lines
-        - provoking confrontation
-        - republic attempted peaceful resolution
-        - clear conflict only solution
-        - republic issued declaration of war
-        - preparing upcoming battle
-    - new notes:
-        full outline:
-        - [ ] since fall lewis uprising fledgling republic formed
-        - [ ] peter helped build true landless nation
-        - [ ] seeking better itself/people
-        - [ ] shut down prior external itam operations
-        - [ ] pangea flourished main land holding
-        - [ ] peter himself stood down
-        - [ ] requested/established significantly reduced role
-        - [ ] small office/specific portfolio
-        - [ ] expanding special projects/missions
-        - [ ] subject ruling council w/ generous leeway
-        - [ ] "first servant" republic
-        - [ ] not all easy/peaceful
-        - [ ] nation like all others
-        - [ ] faced significant turmoil internally
-        - [ ] rebellious uprisings
-        - [ ] external threats numerous given history
-        - [ ] current focus burgeoning conflict
-        - [ ] peoples republic of asia attacking supply lines/outposts
-        - [ ] left remnant lewis operations
-        - [ ] consolidated/seized power in vacuum
-        - [ ] spread across into western asia
-        - [ ] extra-terrestrial holdings
-        - [ ] saw republic existential threats
-        - [ ] began attacking supply lines
-        - [ ] provoking confrontation
-        - [ ] republic attempted peaceful resolution
-        - [ ] clear conflict only solution
-        - [ ] republic issued declaration of war
-        - [ ] preparing upcoming battle
+		- history recap
+			- history of itam + successor states
+			- summary
+			- lewis uprising quelled
+			- restructured federation pangea
+			- formed mscia
+			- encouraged independence
+			- rough + messy
+			- assumed small portfolio
+			- secretary w/ unofficial title "first servant"
+			- typically handlig disputes
+			- some conflict w/ external
+			- rising menaca proa
+			- attacking supply lines + outposts
+			- seeking greater territory
+			- assumed power in post lewis vacuum
+			- declared war mscia
+	- notes:
+		- [ ] preparing upcoming battle
         - [ ] bridge _creature of splendid glory_
         - [ ] bustle activity
         - [ ] peter stood midst
@@ -154,12 +111,13 @@ outline:
         - [ ] somewhat jarring sudden change scenery
         - [ ] without skipping beat doyle barking intercom
         - [ ] d: all vessels, engage assault
-- ch. 2: (rename)
-    - outline:
-        - active battle + winning (day 1)
-        - tide turns + attrocities
-        - destruction + retreat
-	- [ ] notes
+- chapter 2:
+	- intro:
+		- iconian message
+			- calling upon proctor
+			- final prophecy is in motion
+			- summoned to icon
+	- notes:
 		- [ ] immediately fleet began dropping away lunella
         - [ ] short-distance troop transports lifted from surface
         - [ ] treating moon operations base
@@ -247,7 +205,6 @@ outline:
         - [ ] nods back to peter
         - [ ] b: mark
         - [ ] together leaped out doorway into space
-        ---
         - [ ] fall through battle scene
         - [ ] most further off but some engagements closer
         - [ ] fighters zooming back and forth
@@ -275,20 +232,13 @@ outline:
         - [ ] obscuring people inside trapped like animals
         - [ ] peter no time feel fury predicament
         - [ ] enemy forces burst around corner
-        - [ ] NOTE: expand here
-            - [ ] fight + bigs drop in
-            - [ ] brief pause + attacked
-            - [ ] map local targets + running battle
-            - [ ] tired rift + remains vehicle
-            - [ ] bernard lead charge + attack + destroy gun post
-            - [ ] reports other strike force successes
+		- [ ] engage furious combat
         - [ ] peter about leap after bernard towards next target
         - [ ] millie appeared look worry on face
         - [ ] m: you need to return to pangea immediately
         - [ ] p: why? what is it?
         - [ ] m: received message, entirely unknown source, similar markings earliest ITAM, unknown/unexplored region space, need see it for yourself
         - [ ] peter surprised nodded + summoned gunship
-        ---
         - [ ] return "creature"
         - [ ] listen incoming transmission
         - [ ] request proctor + ancillary
@@ -296,131 +246,68 @@ outline:
         - [ ] higher priority potential security risk
         - [ ] approved exit battlefront
         - [ ] return onboard "creature" to pangea
-        - [ ] discussion + bed
-        - proctor estate:
-            - Similar to the Draay Estate
-            - Entire complex is raised off of the ground on a pedestal (~one story up)
-            - Many towers/rounded buildings/gardens within the complex
-            - No vaulted/high ceilings within the complex; all are fairly “normal” heighted and more closed/tunnel-like (monastic)
-                - 2-3 larger vaulted rooms (for dining/entertaining style usage)
-            - Interiors are comfortable/plush/tapestries/etc.
-            - One large bath in master bathroom (ornate, mini waterfalls, suds, etc.)
-            - Entire complex contains interfaces to the network that allow constant interaction without having to stay in one spot, this gives Damien comfortable setting to control ITAM from
-            - Include several large/raised plazas within the complex
-                - Reminiscent of Basilica of Francesco d’Assisi
-                - Rectangular shapes + tall/thin arches
-    - topics: personal freedom, impinging human rights, necessity of action
-    - notes:
-        • Larger titan: Moai (official designation and title of the machine)
-            ◦ Significantly more powerful than previous battle titans
-                ▪ Extremely powerful unit in the field
-            ◦ Cockpit/head looks very much like a moai statue
-                ▪ Entry port through the back of the head
-                ▪ Large lizard image painted onto face
-                    • All named moai have maori names
-                        ◦ Peter moai: Kumukumu (“lizard”)
-                ▪ Small metal squares forming a “necklace” around neck
-                    • Armor + looks like maori ornament
-                ▪ Maori tattoos painted all over armor plating
-                    • Large lizard emblem painted to coil around the entire body (one large emblem)
-                ▪ Large shoulder blades on back
-                    • Allow for stronger arm movements + back protection
-                ▪ Ball-like fists + fingers (strong + powerful)
-            ◦ Body is similar to those found on the other titans
-                ▪ Rounder + with more round armor plates
-                ▪ Armor plates are smaller than the Bigs
-                    • More like arm bands + wrist guards + shin plates + necklaces + stomach plate + shoulder bands
-                    • Not like large plates of “medieval” armor
-                    • More like tribal armor pieces made from bone/wood
-                        ◦ Allows for greater movement
-                            ▪ Also have metallic/hydraulic “muscles” throughout the body
-                        ◦ Joints/inner workings are protected by hardlight + imbued electric fields
-                    • Imbued electric fields common in the more powerful pieces of Builder equipment
-                    • Strengthens the material + provides for a protective forcefield
-                        ◦ Not projected around the object but actually a part of it
-            ◦ Internal interface/piloting controls are significantly more dynamic and interactive than those found in the original Bigs
-                ▪ Controls: standing upright w/ feet + ankles strapped into holsters
-                    • Hold pilot in place + raised off the floor w/ suspension which allows for balancing + movement control
-                    • Other interfaces are holographic + hardlight
-                ▪ As a result of being designed by The Builders
-                ▪ Face does not move (all one piece of metal-rock)
-                    • Mouth can split open to blast electric fire
-                    • When blasts from mouth the entire floor underneath the pilot will light up (translucent, can see the entire blast emanating from the throat)
-            ◦ Weapons
-                ▪ Electric fire streams/blasts from mouth
-                ▪ Physical strikes (arms/legs/head)
-                ▪ Telekinetic grips/blasts (hands, extremely powerful)
-                    • When focused can tear apart entire city blocks
-                    • Even “common” pilots can utilize this ability
-        - scene:
-            ▪ Notices the Greater Juche Tower
-                ▪ Greater + expanded original Juche Tower
-                ▪ Arbitrarily calls in an orbital strike to cripple the structure
-                    • Blue and White fires the shots
-                    • Three piercing strikes hit the base of the tower + collapses
-    - topics: future generations
-- ch. 3: courage eternal
-    - outline:
-        - recupterating + millie disillusioned (day 2)
-        - receive message/alert
-        - millie leaves investiate
-        - christen/embark _courage_ (day 3)
-    - new notes:
-        - [ ] embarking
-            - [ ] wake/dress, travel to edge dock, brief discussion along way
-            - [ ] awoke proctor estate
-            - [ ] small residential/office compound within city limits
-            - [ ] still preferred cloistering self away
-            - [ ] night before arranged ship/accompanying fleet
-            - [ ] departure would also be christening
-            - [ ] expecting small "walking" celebration
-            - [ ] donning more official robes
-            - [ ] preferred simple black w/ white under shirts
-            - [ ] black ceremonial role hat
-            - [ ] board enclosed ground skiff
-            - [ ] millie appears + discuss what to expect
-            - [ ] unsure path forward
-            - [ ] atmosphere visibility becoming lighter (less dark blue)
-        - [ ] arrive, embark w/ celebration for victory/new christening
-            - [ ] coming edge pangea w/ courage eternal docked off side
-            - [ ] step out onto carpeted walkway surrounded cheering crowds
-            - [ ] major blow against proa despite tactical retreat but war not over
-            - [ ] celebrating christening as well
-            - [ ] largest single vessel built republic
-            - [ ] huge independent warship
-            - [ ] capable mounting defenses outposts long-term
-            - [ ] mobile base operations
-            - [ ] walked down raising hand w/ small gestures acknowledgment
-            - [ ] small podium w/ champagne swings + smashes cheers erupt
-            - [ ] turns steps down walks remainder way
-            - [ ] bottom walkway turns raises both hands + turns walks up walkway into ship
-        - [ ] meet captain, watch liftoff
-            - [ ] walk through to bridge
-            - [ ] bernard standing + waiting
-            - [ ] captain steps forward + introduces self
-            - [ ] served alongside peter battle of jerusalem
-            - [ ] looking forward serving again voyage
-            - [ ] peter walks observation deck on bridge
-            - [ ] similar glass floor where directed battle of pyongyang
-            - [ ] stretching out before edge of pangea
-            - [ ] sunlight grassland + edge of blue space side by side
-            - [ ] captain calls prepare launch
-			        - "take her to sky, captain"
-            - [ ] ship pushes off from land
-            - [ ] slowly pivots up + arcs out over land
-            - [ ] swings out over crowd
-            - [ ] peter raises hand acknowledgment
-            - [ ] bow points up + over pangea towards stars
-            - [ ] slowly boosts away in edge upper atmosphere
-		- [ ] possible inclusion
-			* when leaving Earth
-			* after standing at front window waving to crowd
-			* walks back to main command room
-			* massive glass floor
-			* friend standing in it
-			* beyond them the blue shell planet below
-			* looks like hovering in space
-			* calmly standing
+- chapter 3:
+	- intro:
+		- iconian discussion
+			- criteria met
+			- are we ready for judgement
+			- we must because it is now
+	- notes:
+		- TEMP: battle recap + victory, plan departure, millie leaves, christen, embark, dinner
+		- [ ] battle completed
+		- [ ] took longer w/o peter + millie
+		- [ ] also pivoting protect citizens
+		- [ ] struck major blow proa
+		- [ ] officially capitulated
+		- [ ] no territory changed hands
+		- [ ] not decisive enough
+		- [ ] but proa back in place
+		- [ ] preparing leave at proctor estate
+		- [ ] small complex on pangea
+		- [ ] part small city bojaxhiu
+		- [ ] slightly raised + walled off
+		- [ ] small collection buildings + gardens
+		- [ ] work + live balance different prior grasslands setup
+		- [ ] still preferred cloistering self away
+		- [ ] night before arranged ship/accompanying fleet
+		- [ ] departure would also be christening
+		- [ ] expecting small "walking" celebration
+		- [ ] donning more official robes
+		- [ ] preferred simple black w/ white under shirts
+		- [ ] black ceremonial role hat
+		- [ ] board enclosed ground skiff
+		- [ ] millie appears + discuss what to expect
+		- [ ] unsure path forward
+		- [ ] atmosphere visibility becoming lighter (less dark blue)
+		- [ ] coming edge pangea w/ courage eternal docked off side
+		- [ ] step out onto carpeted walkway surrounded cheering crowds
+		- [ ] major blow against proa despite tactical retreat but war not over
+		- [ ] celebrating christening as well
+		- [ ] largest single vessel built republic
+		- [ ] huge independent warship
+		- [ ] capable mounting defenses outposts long-term
+		- [ ] mobile base operations
+		- [ ] walked down raising hand w/ small gestures acknowledgment
+		- [ ] small podium w/ champagne swings + smashes cheers erupt
+		- [ ] turns steps down walks remainder way
+		- [ ] bottom walkway turns raises both hands + turns walks up walkway into ship
+		- [ ] walk through to bridge
+		- [ ] bernard standing + waiting
+		- [ ] captain steps forward + introduces self
+		- [ ] served alongside peter battle of jerusalem
+		- [ ] looking forward serving again voyage
+		- [ ] peter walks observation deck on bridge
+		- [ ] similar glass floor where directed battle of pyongyang
+		- [ ] stretching out before edge of pangea
+		- [ ] sunlight grassland + edge of blue space side by side
+		- [ ] captain calls prepare launch
+		- [ ] "take her to sky, captain"
+		- [ ] ship pushes off from land
+		- [ ] slowly pivots up + arcs out over land
+		- [ ] swings out over crowd
+		- [ ] peter raises hand acknowledgment
+		- [ ] bow points up + over pangea towards stars
+		- [ ] slowly boosts away in edge upper atmosphere
         - [ ] settle in, move away from pangea, wait small escort fleet
         - [ ] move into open space
         - [ ] replay message + loop captain/bernard into situation
@@ -445,464 +332,605 @@ outline:
         - [ ] quiet pleasantries + accepted into dinner
         - [ ] seated near captain
         - [ ] discuss general pleasantries + specifics courage eternal
-        - [ ] private discussion w/ bernard
-            - [ ] officer confronts w/ old legend circulating
-            - [ ] "chairman's due"
-            - [ ] dangerous + challenges possible lewis resurgence
-            - [ ] if so possibly facing insurmountable odds given prior experience
-            - [ ] dinner ends
-            - [ ] small groups split off
-            - [ ] bernard looking observation window
-            - [ ] peter joins
-            - [ ] discuss life away battlefield
-            - [ ] different things would be otherwise
-            - [ ] sings little song
-            - [ ] peter thinks something else there
-        - [ ] small discussion w/ captain in study
-            - [ ] captain interrupts + invites to study
-            - [ ] drinks sit around fire
-            - [ ] call millie in
-            - [ ] inquire what encountering
-            - [ ] unable/unwilling share
-            - [ ] officers uneasy
-            - [ ] mission into unknown space
-            - [ ] receiving message unknown source
-            - [ ] bearing proctor/ai
-            - [ ] cause concern
-            - [ ] unable provide information
-    - notes:
-        - embark scene:
-            - when leaving Earth
-            - after standing at front window waving to crowd
-            - walks back to main command room
-            - massive glass floor
-            - friend standing in it
-            - beyond them the blue shell planet below
-            - looks like hovering in space
-            - calmly standing
-        - expanded embark scene:
-            ▪ Leaves estate aboard a moderate altitude enclosed vessel (looks like a thin ship w/ sails)
-                • Interior is evocative of a limousine but somewhat longer/bigger inside
-                • Not enough room to stand/walk around but it is comfortable
-            ▪ Peter is dressed in a large/comfortable ceremonial costume
-                • Large thick gown ending at lower calf
-                • Billowy upper arms w/ forearms fitted to arms, white cuff lace underneath
-                    ◦ Silver buttons along forearm
-                    ◦ Stiff/circular collar up around neck w/ some white lace underneath
-                    ◦ Similar to priestly colors but more renaissance looking
-                • Stole-mantle over top
-                • Black cloth boots w/ dozens of silver buttons
-                    ◦ All is shades of black and dark greens and green-blues w/ some simple velvet and some light/faint patterning
-                • Golden chain around neck
-                    ◦ All similar to St. Thomas More’s clothing
-            ▪ Discussions with Mr. Niccolo who is accompanying him and Arthur
-                • Few servants/droids in another following limousine-style flyer
-            ▪ Can see the ship as they approach
-            ▪ Lots of media/news attention and focus
-                • Large crowds of media/observers gather around the path to the ship and around the entry ramp
-                • Several small groups of the “religion” that had grown up around Peter
-                    ◦ He has just accepted them and let them continue in their ways
-                    ◦ Quietly/passively acknowledges them and moves along without engaging/directly accepting them
-            ▪ Space port:
-                • Located at the edge of Nova Terra’s shell
-                    ◦ Allows for easier/less strenuous launches for the large ships
-                • Very flat/open with large expanses of concrete platforms
-                • White/tan buildings and structures
-            ▪ Very official boarding procedure
-            ▪ Land the limousine flyer on the land next to the aft section of Kingdom
-            ▪ Door opened for Peter and he steps out into the sun
-                • Arthur comes around the other side
-                • Takes small hat (similar to St. Thomas More’s just slightly more elaborate) from an attendant and places it on Peter’s head
-                • Peter leads walk down a red carpet laid out parallel to the ship in order for the media to see his entrance
-                • Small/still hand gestures and waves to the crowd
-                    ◦ Almost blessing them
-                • Looking at them without smiling but acknowledging and looking up at the ship
-                    ◦ Also looks at the ground in front of him and gently holds his hands together before him
-                • Arrives at the bottom of the boarding ramp where Arthur approaches again and removes the hat and places it back with the attendant
-                • Peter walks up the ramp without turning/acknowledging the crowd
-                • Note: similar to the launching of the Titanic (“Take her to sea, Mr. Murdoch”)
-            ▪ Boarding the massive floating Kingdom followed by a small retinue and the ship commander
-                • Bright and clear sunny day
-                • In the observation deck/bridge looks out over crowds
-            ▪ Attended by commander (friend) and Arthur
-                • Turns to commander once they are all aboard
-                    ◦ Commander is close friend
-                    ◦ Heavily injured/reconstructed after the “side series”
-                        ▪ “Side series” based on the outlines of the Adventure series
-                        ▪ Commander takes the place of the fallen Rin character
-                • “Take her to sky, Cmdr. Rider”
-                    ◦ Raises hand in acknowledgement/blessing as he passes over the large gathered crowd
-                • Deafening/humming engines ignite & fire launching Kingdom away from the shell planet
-    - topics: just war, human life/death, freedom
-- ch. 4: (rename)
-    - outline:
-        - dinner scenes (day 3)
-        - after-dinner discussions
-        - arrival on icon + descent to planet (day 7)
-        - millie revealed
-			- https://www.reddit.com/r/woahdude/comments/9g7psh/burning_man/
-    - notes:
-        - [ ] announce approaching, observe icon, met/escorted
-            - [ ] drop from hyperspace short distance
-            - [ ] dark space w/ blue stars
-            - [ ] great dark cloud before them
-            - [ ] nestled within dark planet
-            - [ ] two battleships moving towards them
-            - [ ] arc above/below _courage_
-            - [ ] form up alongside
-            - [ ] begin guide in towards planet
-        - Icon is a mechanical planet (like Treasure Planet) that is surrounded by a swarm of ships/equipment that looks like dust (like Krikkit).
-			- quasi-mechanical planet like Treasure Planet
-				- possibly inner/outer shells w/ internal mined planetoid
-				- outer shell sand w/ intricate patterns
-				- inside outer shell buildings hanging down
-				- inner shell lush greens w/ high/steep mountains
-				- large/thin/tall robots on inner surface
-				- shallow/clear seas
-				- snow regions have molten lava running through them
-				- surrounded by massive mechanical cloud
-			- alternative:
-				- more like treasure planet
-				- some "internals" showing through
-				- relatively small planet
-				- large constructs floating in very low atmosphere
-				- lots of "integrations" w/ floating constructs dipping into holes in crust
-        - dinner scenes:
-            - after lift off
-            - _Courage_ moving to meet fleet
-            - (not full fleet, just accompanying ships)
-            - takes a day to rendezvous
-            - in that time have "fancy meal" w/ captain/officers
-            - evening wear/more formal event
-            - include dancing (?)
-            - Peter/Nicci private moment
-            - standing by large window
-            - overlooking stars
-            - show signs of affection but nothing really happens
-        - icon description:
-            • everal levels (e.g. outer shell, inner shell, planet surface, separated core, etc.) all being utilized efficiently/perfectly
-                ◦ Outer shell is bright (like the moon), and reflective, white light + design work on the surface
-                    ▪ Outside of shell has large deserts (mostly dunes), large oases, several large/moderately deep clear oceans, several crystalline glass cities laid out in intricate patterns visible from space, several large/small entrances to the interior layers
-                        • Oceans: never deep enough to not see all the way to the bottom of the ocean
-                        • Landscape: almost entirely made up of sand + dunes but there are outcroppings of individual standing stones (not enormous)
-                            ◦ These stones are also present under the oceans
-                        • Sand: possibly used as a light collection mechanism
-                    ▪ Inside of shell has buildings on it pointing towards inner surface, obscured from inside view by perpetual clouds (clear/sunny/blue)
-                        • Few buildings, mostly maintenance/cap to a connection to the outer surface
-                        • Largely for functional purposes
-                    ▪ Several very small “moons” inside the outer shell, suspended above inner surface, host housing/construction sites
-                        • Several small planetoids within the outer layer of Bastion (slowly hovering/orbiting inner layer), used as mining/material providers, also house libraries/sanctuaries/crypts/stasis chambers/etc.
-                    ▪ Giant robots (skinnier, more tactile hands, human like bodies, etc.) used on Bastion for maintenance
-                        • Utilized as war machines in Bastion battles
-                        • Use wrestling/throw moves on one another
-                ◦ Lush/technologically integrated interior (biotechnology), perfect specimens of everything human-related
-                    ▪ Bastion has seas + oceans + lakes on its surface (inner terraformed surface)
-                    ▪ Flora on Bastion (some of it) is bio-mechanical, aware of surroundings, used as defensive measures
-                    ▪ Snow zones (in mountainous areas) have lava/red lights among the snow
-                ◦ Cities (or main city) on Bastion have similar mountainous/steep structure as Machu Picchu (note: not the island where Peter meets the homo syntheticus leader)
-                    ▪ Cities/large constructions are few and far between
-                    ▪ Typically built into the natural environment
-                    ▪ Also several large hovering cities similar to Forerunner structures on Requiem (rising up through the clouds and the sections above the clouds look like the cover art for Two Steps From Hell: Skyworld)
-                ◦ Inner core, molten lava (liquid servers/power generators in lava)
-                ◦ Harvest planet
-                    ▪ Planets mined/harvested to nothing
-                    ▪ Precious minerals/components
-                    ▪ Core hollowed away (floats in center), material harvested through mine shafts (through mantle/crust) by orbiting satellites
-                    ▪ Many factories/operational machinery grafted into/onto planet
-    - topics: human perfection, human self-direction
-- ch. 5: kyrie elision
-    - outline:
-        - icon mission/purpose explained (day 7)
-        - discussions over correct approach
-        - final decision scheduled
-	- big outline:
-		- group discussion, millie explains contact + situation, walk capital "machu pichu" city
-		- met iconians, prophecy explained her, crowned as iconodule w/ peter as iconoclast
-		- her decision w/ authority, small team travels for anointing
-		- fly over w/ platform/skiff, discuss construction
-		- arrive "meteora" monastery, aesthetics
-		- describe anointing requirement, "caelestis", millie/peter agree
-		- millie first, revealed as physical, surprise all
-		- peter next, full painful experience, emerges w/ digital aspects
-	- iconian discussion arc for chapter
-		- [ ] introduction
-			- [ ] icon + iconians
-			- [ ] formalities + introductions
-			- [ ] note: tone iconians final/authoritative, not appeasing/flattering
-		- [ ] world/beings review
-			- [ ] initially developed humans w/ itam
-			- [ ] biotech engineering constructed iconians
-			- [ ] constructed world using fast-time (?)
-			- [ ] setting example
-		- [ ] current itam situation
-			- [ ] triggered death chairman lewis
-			- [ ] received state itam
-			- [ ] waited/monitored post-war
-			- [ ] proving moving away original itam mission
-			- [ ] our original mission
-		- [ ] perfecting form
-			- [ ] icon culmination itam mission
-			- [ ] built perfect world
-			- [ ] spreading order rest existence
-			- [ ] rapidly expand human knowledge/evolution
-		- [ ] transformation
-			- [ ] blending physical/digital worlds
-			- [ ] begin unlocking human limitations
-			- [ ] encourage both millie/peter transformations
-		- [ ] purpose
-			- [ ] powerful force reserve
-			- [ ] either reveals following advances
-			- [ ] alternative brought correct course
-			- [ ] purging incorrect courses
-			- [ ] current environment instate original itam mission
-			- [ ] under iconian jusrisdiction
-			- [ ] scope all humanity
-	- possible intro (and discussed in the chapter)
-		- Title: Iconist Prophecy
-		- Two people come: the Iconodule/Iconoclast
-		- One to create, one to destroy
-		- The debate is over which is which in order to side with one and combat the other (Karina v Peter debates)
-			- Eventually Restraint (incorrectly) assumes that Karina is the Iconodule and Peter is the Iconoclast leading to the Bastion War
-				- As Bastion is destroyed in the war, Peter was actually the Iconodule and Karina was the Iconoclast
-				- Should that been Restraint’s choice it would have happened
-					- E.g. if Peter is selected as the Iconodule he would protect/save Bastion from Karina
-					- E.g. if Peter is selected as the Iconoclast (which he is) he seeks to destroy/defeat Bastion
-				- It is a self-fulfilling prophecy
-					- Prophecy creates an action and either choice would result in the same outcome/actions
-		- Describes Icon and its purpose
-			- Acheiropoeta, icons not made by hand
-				- Name of the capital city (Machu Pichu)
-			- Caelestis, “of heaven”
-	- [ ] note (possible dialogue)
-		- Man is perpetually attempting to change his environment 
-		- Even those individuals secluding themselves from society and becoming ascetics are changing their environment 
-		- Inventors and murderers change their environments 
-		- Everyone moves on their own impetus to build for themselves what they themselves see 
-		- This vision can be either singular or collective 
-		- Man is the creative beast 
-	- [ ] note (possible dialogue)
-		- Ancient man, as he looked out upon the raw earth of yesterday, stared about in awe and fear.  He was at the utter mercy of the world and he pleaded to mother earth for survival.  Offerings of any and all things were made; sacrifices were conducted; the world consumed man as she wished.  But then I came.  I am not merely a focal point of man’s creative impetus.  I am his utter vengeance upon mother earth.  For all that she has done and all that she will yet try to do, I will cut her to her core and let her bleed the untamed blood of creation.  Order will be imposed and earth will know her master.
-	- [ ] note
-		- Homo syntheticus mastered the bridge between data/physical existence and transference between the two
-			- Blue stasis field, vertically moving light blue wisps/data streams
-			- Dark/shadowy figure, slightly akimbo, standing amid light wisps
-			- Once activated/released, data becomes more frantic in movements
-			- Figure begins to move around
-			- As exits the data stream, dark shadows transform into faint blue light data flows
-			- All coalesce and form bones/muscles/implants
-			- Form into a full homo syntheticus
-			- Monasteries like Meteora, Greece + Mount Athos + etc.
-				- Functioning communities and monasteries (some either/or)
-				- Catholic monks on Bastion, either homo syntheticus or very human homo syntheticus
-				- Aesthetics group:
-					- Radical group within the Bastion forces
-					- Biologically altered
-					- Effectively underwent a chemotherapy-style alteration
-						- Very long/intensive and mostly injection-based
-					- Results in emaciated appearances/balding heads/ slender builds
-					- Alterations create a biological bomb built into their DNA
-						- Detonating/shaping the blast is determined by the detonating individual
-					- Dress is loose fitting clothing/simple fabrics & clothes
-					- Always smiling & never talking
-					- Smooth/calm motions and hand gestures
-					- Purpose (?)
-		- Peter + Karina decide to participate
-			- Peter for the digital
-			- Karina for the physical
-			- Karina first:
-				- Enters smoothly
-				- Simply downloaded into the system
-				- Process begins (fairly quite/quick process)
-				- However, all of the lights in the crypt flicker
-					- Loud reverberating thump (like something falling)
-				- Lights all flicker to lighter blues then back to normal
-				- Body coalesces inside the blue data stream field
-				- Exits + forms into a slim human female (looks like Eva Green)
-				- Dressed like Princess Sibylla (Kingdom of Heaven, in this promotional poster: http://www.youtube.com/watch?v=02PxQmHIQ5o)
-			- Peter second:
-				- Placed onto raised glowing pad
-				- Several wires are stuck to his body/head (3-4)
-				- Remembers wires/tank from his birth
-				- Feels burning sensation
-				- Opens mouth in wordless scream
-				- Bits of vision/senses/bodily sensation fall away
-				- Feels himself falling but never hits the floor (disintegrates)
-				- Recognizes his conscious w/o the body in the storage system of the crypt
-				- Various states of on/off + all instantaneously as he thinks
-					- Can feel each individual packet of a thought individually/completely comprehends it instantaneously as it flows through his mind
-				- Feels a “click” as the program finishes successfully converting him
-				- “Door” in the program opens for him to exit the stasis field
-				- Immediately feels his conscience fill the entire Bastion system/network
-				- Suddenly can “see” as if he were surrounded by a mist of data streams
-					- Data streams are fiery orange instead of calm blue now
-				- Outline of a door-like shape
-				- Dark and shadowy figures beyond
-				- Begins pulling himself towards them and as he does he begins to feel bodily structures forming to facilitate his desire to exit
-				- Several tedious seconds finally reaches the field and begins to push through
-				- Foot forms on the other side of the field and comes into contact with the ground
-				- Looks down and can see that it is on fire
-				- Flames licking up his leg and scorching the very floor
-				- Pulls the rest of his rapidly forming body through
-				- As he passes through he can see that he is completely engulfed in flames clinging to his body
-				- Each step sears a footprint into the metal floor
-				- Comes to a stop before the others in the room
-				- Fires die down then fully extinguish revealing a complete and clothed body as it was before he entered the crypt system
-				- The others in the room look on in amazement
-				- All of the lights in the crypt are orange like the field he left for a few moments before returning to their calming blue
-    - topics: monarchy, life vs freedom
-- ch. 6: icon rising
-    - outline:
-        - next day prepare possible battle (day 8)
-        - meet + millie decision
-        - peter escapes + battle starts
-	- big outline:
-		- both recovering, peter tells prep battle, underground location set fallback
-		- peter/millie/doge leave separately, fly over w/ "wings"
-		- peter + millie private conversation mountain, millie brief moment alone
-		- three meet stone outcropping, final arguments
-		- millie thinks + declares intent purge human emotion, preserve intellect, impose order
-		- attacks peter, peter escapes, depressed thoughts in bunker
+		- [ ] officer confronts w/ old legend circulating
+		- [ ] "chairman's due"
+		- [ ] dangerous + challenges possible lewis resurgence
+		- [ ] if so possibly facing insurmountable odds given prior experience
+		- [ ] dinner ends
+		- [ ] small groups split off
+		- [ ] bernard looking observation window
+		- [ ] peter joins
+		- [ ] discuss life away battlefield
+		- [ ] different things would be otherwise
+		- [ ] sings little song
+		- [ ] peter thinks something else there
+		- [ ] captain interrupts + invites to study
+		- [ ] drinks sit around fire
+		- [ ] call millie in
+		- [ ] inquire what encountering
+		- [ ] unable/unwilling share
+		- [ ] officers uneasy
+		- [ ] mission into unknown space
+		- [ ] receiving message unknown source
+		- [ ] bearing proctor/ai
+		- [ ] cause concern
+		- [ ] unable provide information
+- chapter 4:
 	- intro:
-		> Register of the Fleet of the Most Serene Confederacy of Autocephalates  
-		> Description:  
-		> This is a summary collection of the ships available to the battle fleet of navy of the Serene Confederacy.  
-		> Notes:
-		>
-		> * \(\*\): designates intended Flagship of the Proctor
-		> * This is a partial listing:
-		>   * excludes ships below Third rate
-		>   * excludes ships below largest displacement per rate
-
-		| Class | Category | Names |
-		| :--- | :--- | :--- |
-		| Fleet | Virtues | Faith |
-		|  |  | Hope |
-		|  |  | Love |
-		| First rate | Honors | Courage Eternal \* |
-		|  |  | Wisdom Unbound |
-		|  |  | Honesty Given |
-		|  |  | Strength Throughout |
-		| Second rate | Actions | Fight Unheeding Wounds |
-		|  |  | For the Glory |
-		|  |  | All People Become Brothers |
-		|  |  | Love with an Open Heart |
-		|  |  | Defending Every Innocence |
-		| Third rate | Words | When It Is Remembered |
-		|  |  | Stern and Splendid |
-		|  |  | The Great Dance |
-		|  |  | Die Before You Die |
-		|  |  | Love Inevitably Leads to Loss |
-		|  |  | For the Poor |
-		|  |  | This Is My Being |
-		|  |  | Small Things With Great Love |
-		|  |  | Collaborators of the Truth |
-	- iconian discussion arc
-		- [ ] millie factor
-			- [ ] proctor primary resources for reclamation
-			- [ ] peter proven moving away path
-			- [ ] rebuilding itam into republic
-			- [ ] ancillary ai provided backup
-			- [ ] another means accessing itam resources
-		- [ ] temptation
-			- [ ] correcting humanity course
-			- [ ] asserting dominance
-			- [ ] preventing continued horrors/atrocities
-		- [ ] ultimatum
-			- [ ] join w/ influence/resources
-			- [ ] prevent unnecessary blodshed
-			- [ ] establish greater peace/propsperity
-		- [ ] decision
-	- [ ] note: dialogue
-		- Karina: “Every action mankind takes both good and evil, are merely the two feet it uses while traveling down a path of perfection.  With the good it finds solid ground on which it may place its weight, while with its bad it finds unsteady terrain unfit to support it and shifts weight back to the other appendage.  Both are equally useful in directing the path of human evolution and neither must be given more or less weight.  When it comes to human progress, we cannot overlook any means towards furthering the achievements of man.”
-	- [ ] note: dialogue
-		- Peter: “If only I could believe and live your way of life; our purposes would be fulfilled.  But your philosophy is false.  You maintain that through struggle the greater force will rule and so perfection will be found.  Yet when the struggle is over, perfection will not be found.  It is in and of this reason that your belief, your philosophy, is unsustainable.  For in its intended end, it becomes contrary to its intent.  A philosophy may move and have being when exposed to external stimuli but it never changes its form; it merely follows the musculature as laid out by the architect.  Should it ever do so, it would become unfounded and inevitably fall.”
-   	- topics: anxiety, determination, sadness, resolution
-- ch. 7: sudarium
-    - outline:
-        - battle on surface (day 8)
-        - save/sacrifice bernard
-        - duel peter vs millie
-        - millie killed + peter dies
-        - epilogue + resurrection
-	- big outline:
-		- meets team bunker, bernard consoles, team departs
-		- rise through bunker, assemble armor, observe/jump into battle
-		- duels doge, killed by peter
-		- bernard duels millke, possessed, peter duels, injures + drives out
-		- team destroys icon core, planet collapsing/destroying, armies evacuate
-		- peter + millie duel, kills, absorbs, remains on planet + dies
-		- epilogue monastery resources recovered, peter reborn
-    - notes:
-		- Peter in underground bunker tunnel (like Halo locations)
-			- Walking towards circular room with some light beaming down into central area
-			- Several pieces/robotic arms sticking into light
-			- Reaches center, stops/thinks for a few moments
-			- Extends/raises arms, begins to lift up on lightly glowing platform
-			- As ascends, armor is placed/rifts onto body
-				- Most advanced/sleekest set of armor
-				- Designed by the homo syntheticus (originally for them, Peter just uses it)
-				- It is named “Solaluna” (“Sun and Moon”, has attributes of both)
-			- Reaches top + armor finished being assembled, platform stops (on top of small metal platform/pedestal)
-			- Overlooks entire battle, much commotion/explosions/fire/billowing smoke
-				- Clear day otherwise
-			- Immediately jumps into fray
-				- Runs forward/propels self into the air
-					- With free hand (left if other is holding a weapon) makes a great sweeping motion along the ground
-					- Throws a massive  dirt cloud/explosion into combatants + enters the fray
-				- In battles (specifically the final duel between Peter/Restraint) Peter projects tactical readouts/directions/channels as he fights (e.g. arc of a punch/degrees, force applied, foot placements, striking angles, where the opponent needs to be placed, where they will strike next, etc.)
-        - battle scene:
-            - Peter and Doge facing off
-            - (set to Suns and Stars from Battlefield 1 trailer)
-            - "greater" suits of armor called/fall into place
-            - floating above ground
-            - forming great eagles/phoenixes
-            - soldiers leaping into battle around them
-            - leap towards each other + clash
-        - duel scene:
-            * Realizes neither will want to kill the other
-            * Both willing to die to stop the other
-            * Peter accepts he must kill her and end her life
-            * (Later)
-            * Plants strong stance
-            * Places sword defensively but "incorrectly"
-            * A strong blow would dislodge the sword
-            * Karina slices it from his hand (as expected/they both knew she would)
-            * Sword wheels out over behind Peter's shoulder
-            * Time seems to slows down to infinity
-            * She pauses follow through swing waiting for him to leap away
-            * He doesn't (unexpected to her because it is not in his self-interest)
-            * Powerfully blasts her away and into a wall
-	- epilogue
-		- Safe but executed to end Karina (kills himself?)
-		- Peter executed + revived by digital implant/infusion (he had been exposed/transformed with it earlier in the story and his structure/layout was still there, revived with that + medical operations)
-		- Narration occurring in Mr. Niccolo’s time frame (immediately after execution, without knowing Peter is/could be revived)
-			- (All of the execution/stasis/operations occurring in the future?)
-			- Peter taken down from execution
-				- Why do we do everything that we do?
-				- What makes us climb mountains when we could circumvent them?
-				- What makes us strive when there is no reward?
-				- What makes us struggle when there is no victory?
-			- Transferred methodically to operation room
-				- We are like ants but unlike ants we do not know why we do it
-				- Our sacrifices are all in vein because there is no understanding
-				- Humanity is living the purest and greatest sacrilege
-				- But to the burning hearts of men there is no greater honor than to die not knowing why we snuff out those little points of eternal fire
-			- Put into stasis (short time, to preserve body)
-				- And what have we done here?
-				- Only stripped a boy of his innocence
-				- Pushed him ever upward towards his fate
-				- From boy to king to god
-				- Threw him to hell so that we could ascend to heaven
-			- Doctors bring out item to revive Peter
-				- Men move through their lives
-				- They move with resolve; they move for the greater good
-				- Is that a worthy epitaph?
-			- Attach/operate/inject
-				- It is no matter because that is all there is
-				- And to do this men will remove their inhibitions and throw them away
-				- Then men seemingly become greater than gods
-				- From death, through life, with love
-				- The end was decided long ago and we must find it
-				- And when we do perhaps we will be vindicated; perhaps we will rise
-   - topics: necessity of action, selflessness, love
-
+		- millie diary
+			- not sure what i've found
+			- because i may have lost myself
+			- wonder if this is discovering your destiny
+			- or suddenly becoming unsure of it
+	- notes:
+		- [ ] expedition fleet finally converged
+		- [ ] prepared hyperspace jump
+		- [ ] launched w/o delay
+		- [ ] mostly pondering during voyage
+		- [ ] bernard came peter's room
+		- [ ] b: arriving now
+		- [ ] peter rose + followed to bridge
+		- [ ] already equipped w/ armor
+		- [ ] preparing any eventuality
+		- [ ] streaming field before them
+		- [ ] coalesced into starfield
+		- [ ] w/ planet before them
+		- [ ] looked partially engulfed in grey brown cloud
+		- [ ] fleet fell in around them
+		- [ ] crew: captain receiving message, indicate escorts arriving + follow
+		- [ ] captain: do as requested
+		- [ ] peter + bernard share look
+		- [ ] two great ships coming towards them
+		- [ ] smaller than _courage_
+		- [ ] large enough take in combat
+		- [ ] one arced above + other below
+		- [ ] fell in side by side w/ _courage_
+		- [ ] no verbal communication
+		- [ ] but clear where going
+		- [ ] not allowing deviation
+		- [ ] began moving towards planet
+		- [ ] escorts positioned themselves between escorts
+		- [ ] pushing them peel off
+		- [ ] crew: message from escorts, should move against them
+		- [ ] captain: no, want us alone, get us alone, assume orbital cover position
+		- [ ] crew: acknowledged
+		- [ ] ships move off guardedly
+		- [ ] closer see cloud thousands ships + machines
+		- [ ] engulfing entire planet
+		- [ ] also see portions planet
+		- [ ] clearly man-made
+		- [ ] another enormous construct
+		- [ ] dwarfing even _pangea_
+		- [ ] entire planet created
+		- [ ] ensconsed w/i material build entire other planet
+		- [ ] facing formidable technologists
+		- [ ] closer beautiful geography
+		- [ ] shallow blue seas + pristine landscapes
+		- [ ] again reminded _pangea_
+		- [ ] somehow different 
+		- [ ] more orderly
+		- [ ] escorts guided down further into atmosphere
+		- [ ] followed wordless directions
+		- [ ] slowed halt above rising series mountains
+		- [ ] ship bridge near one
+		- [ ] see great stone buildings on ridges + peaks
+		- [ ] reminiscent ancient earth site machu pichu
+		- [ ] but larger + active
+		- [ ] figures standing waiting
+		- [ ] b: we're here
+		- [ ] p: they're expecting us
+		- [ ] turn captain
+		- [ ] p: wait here, b + i make contact
+		- [ ] captain: yes sir
+		- [ ] follow bernard forward hatch
+		- [ ] unofficial but work
+		- [ ] both drop out + fly to reception
+		- [ ] alight take in scene
+		- [ ] tall beings w/ slight builds
+		- [ ] great armor + masks
+		- [ ] leader steps forward
+		- [ ] mask retreats
+		- [ ] face slim + human like but greyer w/ small nostrils + blue eyes
+		- [ ] sr: welcome icon
+		- [ ] bows + receiprocated
+		- [ ] sr: doge of icon symbiotic restraint, summoned answer great call + fulfill prophecy
+		- [ ] peter + bernard share another look
+		- [ ] sr: first introduce why here
+		- [ ] stepped aside
+		- [ ] other figure steps up
+		- [ ] train carried by others
+		- [ ] ornate armor w/ robotic look
+		- [ ] great circular mask
+		- [ ] breaks away
+		- [ ] m: hello, peter
+- chapter 5:
+	- intro:
+		- iconist prophecy
+			- two are to come
+			- the iconodule
+			- the iconoclast
+			- one to create
+			- one to destroy
+			- one to remain
+	- notes:
+		- [ ] peter + bernard stare in suprise
+		- [ ] p: what are you doing here?
+		- [ ] m: part of my forward exploration, more...involved than expected
+		- [ ] sr: discuss further, ship may depart
+		- [ ] peter nods to bernard
+		- [ ] bernard messaged ship
+		- [ ] follow escorts
+		- [ ] affirmative received
+		- [ ] _courage_ moved up into the sky w/ ships
+		- [ ] sr: come with us
+		- [ ] walk into city
+		- [ ] great stone structures
+		- [ ] not fabricated material
+		- [ ] mined and arranged
+		- [ ] ancient methods of earth
+		- [ ] peter walked next to millie
+		- [ ] hologram projected at human scale
+		- [ ] arbiter robot body
+		- [ ] peter repeated question before
+		- [ ] p: what are you doing here?
+		- [ ] m: arrived via route provided, immediate contact w/ iconians, discussed their purpose + intent, how we factor into it, you should hear what they have to say
+		- [ ] peter turned symbiotic restraint
+		- [ ] p: what are you?
+		- [ ] sr: iconian, more properly original itam goal _homo syntheticus_, blending man w/ machine
+		- [ ] p: you're human?
+		- [ ] sr: yes and no, yes share ancestry, but separate, another genus w/i human species
+		- [ ] continue walking through city
+		- [ ] tall + stately iconians moved about
+		- [ ] not typical human activities
+		- [ ] seemed like idyllic philosophers
+		- [ ] sr: launched by itam decades ago, hidden from records, directly blended w/ technology, rapidly advanced, built this + more in stealth, waiting time revealation
+		- [ ] p: that time is now
+		- [ ] sr: yes
+		- [ ] p: why?
+		- [ ] sr: death chairman lewis + collapse of itam, itams purpose + goal no longer being moved forward, we are contingency resource, we are the only hope, post-lewisian war state of world proving need presence in universe, return original mission
+		- [ ] peter growing wary
+		- [ ] heard said all before
+		- [ ] belloc, lewis, more
+		- [ ] same dangerous rhetoric
+		- [ ] this yet again significant threat
+		- [ ] p: world not in balance, but not in danger, humanity continuing grow + flourish
+		- [ ] sr: perhaps, but that fact not yet fully established, that's why here, we must discuss
+		- [ ] m: discuss the situation and us
+		- [ ] peter turn her
+		- [ ] m: apparently not just you this time, there is a prophecy
+		- [ ] small group arrived small courtyard
+		- [ ] ringed w/ covered walkways
+		- [ ] old monaster or cloister
+		- [ ] walking around fountain in middle
+		- [ ] b: what prophecy?
+		- [ ] sr: the iconists, two individuals, called on our activation, assume roles of iconoclast and iconodule, decide what to be done with us
+		- [ ] m: you and me, peter
+		- [ ] of course we're back at the center
+		- [ ] life never not pivotal world decisions
+		- [ ] p: which is which
+		- [ ] millie shook head
+		- [ ] m: we don't know, no one knows, we're here to find out, and then here to decide who remains
+		- [ ] sr: here in acheiropoeta to decide
+		- [ ] m: seen destruction, human atrocities, we can fix that, great force, use it
+		- [ ] p: life w/o love is no life
+		- [ ] m: great love, preserve life
+		- [ ] p: hear yourself, how not familiar, how turned so quickly
+		- [ ] m: didn't turn quickly, happening since first met, whole life working in darkness, others may see light, opportunity end struggle
+		- [ ] p: what would you do
+		- [ ] sr: icon culmination itam mission, ability perfect world, spread order all existence, expand + preserve human knowledge + evolution
+		- [ ] sr: Ancient man, as he looked out upon the raw earth of yesterday, stared about in awe and fear.  He was at the utter mercy of the world and he pleaded to mother earth for survival.  Offerings of any and all things were made; sacrifices were conducted; the world consumed man as she wished.  But then I came.  I am not merely a focal point of man’s creative impetus.  I am his utter vengeance upon mother earth.  For all that she has done and all that she will yet try to do, I will cut her to her core and let her bleed the untamed blood of creation.  Order will be imposed and earth will know her master.
+		- [ ] p: by blending created man w/ man's creation?
+		- [ ] m: yes, here icon has unlocked human limitations, helped build something great
+		- [ ] p: but we could forgo that, we could decide to leave icon at bay
+		- millie + restraint share look
+		- [ ] sr: we could, but it is the natural evolution, Man is perpetually attempting to change his environment, Even those individuals secluding themselves from society and becoming ascetics are changing their environment, Inventors and murderers change their environments, Everyone moves on their own impetus to build for themselves what they themselves see, This vision can be either singular or collective,  Man is the creative beast 
+		- [ ] m: icon tool in that evolution, way scale itam's original mission, under icon jurisdiction, scope all of humanity
+		- [ ] p: by force
+		- [ ] m: by force, but corrective force necessary, just as was our war with proa
+		- [ ] peter things to himself
+		- [ ] maybe it is worth it
+		- [ ] one final thing
+		- [ ] an ultimate end
+		- [ ] nothing else after it
+		- [ ] a final sacrifice
+		- [ ] peter: what would it entail?
+		- [ ] restraint relaxes a bit
+		- [ ] r: just as blended mechanical w/ biological blending physical w/ digital, brining world of atoms and bits together, w/ humanity united under common design move evolution forward infinitely
+		- [ ] m: i've been asked to particpate, to be the first
+		- [ ] brief pause
+		- [ ] m: as have you
+		- [ ] peter thought to himself
+		- [ ] yet another transformation
+		- [ ] yet another evolution
+		- [ ] but again thought maybe just maybe
+		- [ ] final sacrifice worth it
+		- [ ] finally nodded silently
+		- [ ] bernard stepped forward
+		- [ ] b: are you sure (said quietly)
+		- [ ] p: i am but i am not persuaded yet
+		- [ ] m: okay good, i didn't expect to convince you all at once
+		- [ ] peter nodded
+		- [ ] group walked to small landing pad
+		- [ ] boarded skiff + departed
+		- [ ] flew through low mountains
+		- [ ] flora and fauna biomechanical + alien
+		- [ ] peter remembered his first visit to pangea
+		- [ ] and the circumstances of it
+		- [ ] arrived building on top great natural stone pillar
+		- [ ] inside stone buildings
+		- [ ] advanced technical laboratory
+		- [ ] great blue field along wall
+		- [ ] whisps of white data streams 
+		- [ ] sr: passing through, transform humanity, blending physical and digital
+		- [ ] peter thought what this would mean
+		- [ ] him a human
+		- [ ] millie an ai
+		- [ ] restraint beconed millie forward
+		- [ ] previously discarded ornamentation
+		- [ ] simple hologram
+		- [ ] emitter held by bernard
+		- [ ] stepped forward towards wall
+		- [ ] extended hand in
+		- [ ] small flash + absorbed into it
+		- [ ] all lights in crypt flickered
+		- [ ] wall began to dance
+		- [ ] faint figure body began coalesce 
+		- [ ] walked towards them
+		- [ ] pushed through wall
+		- [ ] blue light forming human body
+		- [ ] no longer blue hologram
+		- [ ] human flesh
+		- [ ] hair in her usual bun
+		- [ ] now wearing simple cascading dress
+		- [ ] eyes as blue as the hologram
+		- [ ] stumbbled briefly
+		- [ ] peter stepped forward caught her arm
+		- [ ] p: hi
+		- [ ] m: hi
+		- [ ] p: are you alright
+		- [ ] m: yes, but different
+		- [ ] helped her up
+		- [ ] millie chuckled
+		- [ ] m: this what it's like to have gravity, little weird
+		- [ ] peter relieved
+		- [ ] still the same millie
+		- [ ] restraint beconed him forward for his turn
+		- [ ] extended hand into wall
+		- [ ] pushed through
+		- [ ] tingling then burning
+		- [ ] opened mouth in wordless scream
+		- [ ] vision + senses began falling away
+		- [ ] but then recognized his own conscious
+		- [ ] began pulling self back together
+		- [ ] like waking self from a dream
+		- [ ] saw light from a wall
+		- [ ] began moving towards it and then through it
+		- [ ] suddenly could see surrounded by streams of white light
+		- [ ] shadowy figures before him
+		- [ ] pushed w/ closed eyes
+		- [ ] fell forward + felt stone floor beneath hands
+		- [ ] benard next to him
+		- [ ] hand on arm
+		- [ ] p: i'm alright, i'm alright
+		- [ ] digital flames licked along his body
+		- [ ] quickly died out
+		- [ ] bernard helped him up
+		- [ ] all lights in cyrpt were organge
+		- [ ] flicked back to blue
+		- [ ] sr: it is done
+		- [ ] peter and millie shared a look
+		- [ ] they were the same now
+		- [ ] but still the prophecy stood between them
+		- [ ] sr: you must both rest tonight, begin again tomorrow, a decision wil be made
+- chapter 6:
+	- intro:
+		- fleet register
+			> Register of the Fleet of the Most Serene Confederacy of Autocephalates  
+			> Description:  
+			> This is a summary collection of the ships available to the battle fleet of navy of the Serene Confederacy.  
+			> Notes:
+			>
+			> * \(\*\): designates intended Flagship of the Proctor
+			> * This is a partial listing:
+			>   * excludes ships below Third rate
+			>   * excludes ships below largest displacement per rate
+			| Class | Category | Names |
+			| :--- | :--- | :--- |
+			| Fleet | Virtues | Faith |
+			|  |  | Hope |
+			|  |  | Love |
+			| First rate | Honors | Courage Eternal \* |
+			|  |  | Wisdom Unbound |
+			|  |  | Honesty Given |
+			|  |  | Strength Throughout |
+			| Second rate | Actions | Fight Unheeding Wounds |
+			|  |  | For the Glory |
+			|  |  | All People Become Brothers |
+			|  |  | Love with an Open Heart |
+			|  |  | Defending Every Innocence |
+			| Third rate | Words | When It Is Remembered |
+			|  |  | Stern and Splendid |
+			|  |  | The Great Dance |
+			|  |  | Die Before You Die |
+			|  |  | Love Inevitably Leads to Loss |
+			|  |  | For the Poor |
+			|  |  | This Is My Being |
+			|  |  | Small Things With Great Love |
+			|  |  | Collaborators of the Truth |
+	- notes:
+		- [ ] next day rose
+		- [ ] millie at breakfast
+		- [ ] first time ever
+		- [ ] chatted about nothing
+		- [ ] neither wanted what was coming
+		- [ ] bernard looked on
+		- [ ] chiming in when asked
+		- [ ] sore from ordeal but no time for furthe rest
+		- [ ] summoned by restraint
+		- [ ] just millie + peter
+		- [ ] peter takes bernard aside
+		- [ ] p: get word to captain, prepare for battle, very likely to come, also set the contingency resources in motion, company ready
+		- [ ] b: yes sir, positioned location we identified yesterday
+		- [ ] brief pause
+		- [ ] b: peter...
+		- [ ] rarely used his name
+		- [ ] concerned + something else
+		- [ ] wondered what it could be
+		- [ ] he knew what it was
+		- [ ] reached out + took her hand
+		- [ ] wanted to say something
+		- [ ] nothing came out
+		- [ ] she squeezed hand + left
+		- [ ] peter returned to millie
+		- [ ] sr: it is time
+		- [ ] lifted off from balcony
+		- [ ] flew out over the mountains
+		- [ ] rolling grassland
+		- [ ] short grass dotted w/ round rocks
+		- [ ] beautiful + tranquil
+		- [ ] peter + millie followed suit
+		- [ ] propelling w/ resources summoned to them
+		- [ ] alighted on old stone circle
+		- [ ] alone from all else
+		- [ ] sr: it is time, declare your final intentions
+		- [ ] millie + peter look each other
+		- [ ] intently + w/ worry
+		- [ ] millie spoke first
+		- [ ] m: resolute, we must do this, a final sacrifice
+		- [ ] peter heard words he had himself been thinking
+		- [ ] but arrived opposite conclusion
+		- [ ] p: i cannot, humanity must be left to its own devices, for good or evil, no one can take that upon themselves, they would be no longer human
+		- [ ] millie voice pleading
+		- [ ] m: very action mankind takes both good and evil, are merely the two feet it uses while traveling down a path of perfection.  With the good it finds solid ground on which it may place its weight, while with its bad it finds unsteady terrain unfit to support it and shifts weight back to the other appendage.  Both are equally useful in directing the path of human evolution and neither must be given more or less weight.  When it comes to human progress, we cannot overlook any means towards furthering the achievements of man.
+		- [ ] p: If only I could believe and live your way of life; our purposes would be fulfilled.  But your philosophy is false.  You maintain that through struggle the greater force will rule and so perfection will be found.  Yet when the struggle is over, perfection will not be found.  It is in and of this reason that your belief, your philosophy, is unsustainable.  For in its intended end, it becomes contrary to its intent.  A philosophy may move and have being when exposed to external stimuli but it never changes its form; it merely follows the musculature as laid out by the architect.  Should it ever do so, it would become unfounded and inevitably fall
+		- [ ] millie turned away
+		- [ ] looking out over fields
+		- [ ] m: we must do this
+		- [ ] p: millie we can't
+		- [ ] m: it's already in motion, the prophecy is being fulfilled, i am the iconodule, you're the iconoclast, and only one must remain
+		- [ ] p: millie, please, millie
+		- [ ] m: there will be no bloodshed after this final bloodsheet, i promise
+		- [ ] armor suddendly ensconsed her
+		- [ ] blade appeared in her hand
+		- [ ] whipped about slashing at peter
+		- [ ] already rifted away
+		- [ ] appeared in tunnel
+		- [ ] running throughout artificial planet
+		- [ ] crestfallen
+		- [ ] his friend was gone
+		- [ ] not betrayed but corrupted
+		- [ ] jogged along corridor
+		- [ ] met up w/ bernard + company
+		- [ ] suited + prepared for battle
+		- [ ] bernard read face
+		- [ ] b: it's happened
+		- [ ] peter nodded
+		- [ ] b: so we make a stand
+		- [ ] p: we must
+- chapter 7:
+	- intro:
+		- lewis diary
+			- wonder all worth it
+			- all of this struggle and pain
+			- sacrificing everything
+			- for what
+			- humanity
+			- don't even know what that is anymore
+	- notes:
+		- [ ] peter + bernard + company began mobiliz
+		- [ ] not long before found
+		- [ ] intercom
+		- [ ] captain: proctor, arrived + engaged enemy, field near your location
+		- [ ] p: very well, arrive shortly
+		- [ ] group sped off through tunnels
+		- [ ] mapped out + knew the way
+		- [ ] bernard issuing orders
+		- [ ] squads peeling off + exiting through tunnels to surface
+		- [ ] finally her and peter
+		- [ ] stops at her exit 
+		- [ ] nod to each other
+		- [ ] again felt something else
+		- [ ] she shot upwards
+		- [ ] peter kept going
+		- [ ] thinking to himself
+		- [ ] all or nothing
+		- [ ] final hand to play
+		- [ ] he and millie left at the table
+		- [ ] lewis, belloc, more all gone
+		- [ ] just them two
+		- [ ] suppose that's the way poker is played
+		- [ ] got to his exit
+		- [ ] stood in silence
+		- [ ] resolve began fill him
+		- [ ] if he fell he would finally be at rest
+		- [ ] but it would be an earned sleep
+		- [ ] activated lift
+		- [ ] rising upwards
+		- [ ] summoned armor to himself
+		- [ ] hatch opened + blinded in light
+		- [ ] cleared saw pitched battle before him
+		- [ ] leapt into fray
+		- [ ] fought w/ focus
+		- [ ] sky above battleships + _courage_ engaging
+		- [ ] infinitely small force
+		- [ ] but needed to deal blow to try and escape icon
+		- [ ] saw restraint
+		- [ ] both on small opposing hills
+		- [ ] salute + leap at each other
+		- [ ] savage duel
+		- [ ] battering at each other
+		- [ ] but peter was stronger
+		- [ ] bit by bit began overcoming doge
+		- [ ] slashed sword from hand
+		- [ ] spun + smashed pommel into face
+		- [ ] stunned + gripped w/ telekinetics
+		- [ ] crushed into ground
+		- [ ] paralyzed as peter leapt + delivered downward stab
+		- [ ] doge face frozen in death
+		- [ ] peter looked up
+		- [ ] saw something never seen
+		- [ ] millie w/ sword to bernards neck
+		- [ ] stunned
+		- [ ] never defeated
+		- [ ] but said herself that there would be one someday
+		- [ ] raised his hand
+		- [ ] troops halted
+		- [ ] b: don't
+		- [ ] peter stood helplessly
+		- [ ] m: surrender
+		- [ ] peter nodded
+		- [ ] order to troops went out
+		- [ ] quickly gathered into group
+		- [ ] brought aboard _courage_
+		- [ ] entire time millie stood w/ drawn sword
+		- [ ] threatening to kill bernard standing before her
+		- [ ] iconian fleet began to mobilize
+		- [ ] conquest of humanity had begun
+		- [ ] m: i'm sorry it must be like this, but the sacrifice must be made, the last sacrifice
+		- [ ] peter silent entire time
+		- [ ] looked into bernards eyes
+		- [ ] despaired
+		- [ ] but then realized the sacrifice he must make
+		- [ ] p: i'm sorry too
+		- [ ] flicked wrists
+		- [ ] bernard pushed back onto millie blade
+		- [ ] mouth opened in pain
+		- [ ] but not in surprise
+		- [ ] knew what had to be done
+		- [ ] simultaneously sword appeared in peter's hand
+		- [ ] leapt at millie w/ stuck sword
+		- [ ] millie launched backwards
+		- [ ] bernard felt to ground limp
+		- [ ] then viewscreen erupted flashes light
+		- [ ] contiengency fleet peter ordered arrived
+		- [ ] p: all ships engage enemy
+		- [ ] starfield erupted into fire
+		- [ ] p: simon, execute contingency
+		- [ ] gravely voice over intercom
+		- [ ] s: yes sir
+		- [ ] m: what are you doing?
+		- [ ] p: making the sacrifice
+		- [ ] simon work immediately visible
+		- [ ] turning great iconian swarm on the planet
+		- [ ] beginning to fly into it w/ abandon
+		- [ ] shreding lush landscape
+		- [ ] simon created when the icon contingency was established
+		- [ ] able to seize control drones + robots
+		- [ ] turning them against iconians
+		- [ ] peter spun + blasted down iconain guards
+		- [ ] created weapons for company
+		- [ ] p: protect bernard
+		- [ ] immediately leapt on the iconian bridge crew
+		- [ ] millie screamd and lunged at peter
+		- [ ] two clashed + began to duel
+		- [ ] battle swarmed around them
+		- [ ] but company quickly gained control
+		- [ ] millie recognized situation
+		- [ ] dove back down the hall
+		- [ ] p: bring reinforcements aboard and retake the ship
+		- [ ] chased after her
+		- [ ] running duel to airlock
+		- [ ] armor summoned + both jump out in sequence
+		- [ ] falling through space
+		- [ ] familiar setting
+		- [ ] just a few days before
+		- [ ] only instead then they were together
+		- [ ] battle continued to the ground
+		- [ ] engaged again
+		- [ ] instead of welcoming terrain
+		- [ ] fire and ash
+		- [ ] torn apart and burning world
+		- [ ] slash perry
+		- [ ] jab and cut
+		- [ ] evenly matched
+		- [ ] evenly powered
+		- [ ] iconist prophecy coming to fruition
+		- [ ] blades met
+		- [ ] gazed through entwined blades
+		- [ ] m: we can still stop this
+		- [ ] peter shock his head
+		- [ ] p: you don't believe that
+		- [ ] millie shock her head as well
+		- [ ] m: i don't but i felt it had to be said
+		- [ ] broke + dueled
+		- [ ] p: you're right, a sacrifice must be made
+		- [ ] millies face was crestfallen but focused
+		- [ ] m: i know
+		- [ ] duel continued
+		- [ ] realized neither wanted kill other
+		- [ ] but both willing to die to stop the other
+		- [ ] peter knew what he had to do
+		- [ ] and he accepted it
+		- [ ] mid swing he brought his blade up
+		- [ ] loosely gripped
+		- [ ] her slash drove it from his hand
+		- [ ] defenseless he didn't move
+		- [ ] time seemed to slow down
+		- [ ] she realized his position
+		- [ ] in that moment she did nothing
+		- [ ] but peter did
+		- [ ] threw an immense blast
+		- [ ] launched backwards into upright stone
+		- [ ] stunned
+		- [ ] smooth motion
+		- [ ] summoned sword to hand + leapt forward
+		- [ ] drove clean through her chest
+		- [ ] gasped in shock
+		- [ ] peter disintigrated the blade
+		- [ ] stepped forward gently catching millie as she fell unpined from stone
+		- [ ] blood oozed from her mouth
+		- [ ] m: but...peter
+		- [ ] p: i know
+		- [ ] m: the...sacrifice
+		- [ ] p: i know
+		- [ ] m: i'm...sorry...so...sorry
+		- [ ] p: i know
+		- [ ] m: peter...
+		- [ ] millie died
+		- [ ] the great ai turned human
+		- [ ] peters last friend
+		- [ ] world continued to erupt around him
+		- [ ] finally breaking apart
+		- [ ] tears finally fell from his eyes
+		- [ ] held his friend
+		- [ ] a rushing explosion
+		- [ ] and then nothing
+		- [ ] epilogue
+		- [ ] icon contingency quelled
+		- [ ] simons arrival halted advance
+		- [ ] entire destruction of iconian project
+		- [ ] bernard recovered injuries
+		- [ ] millie + restraint defeated
+		- [ ] iconist prophecy fulfilled
+		- [ ] but the reverse of what millie + restraint expected
+		- [ ] peter the iconodule
+		- [ ] millie the iconoclast
+		- [ ] his actions led creation
+		- [ ] her actions led destruction
+		- [ ] but one to remain
+		- [ ] that too was fulfilled
+		- [ ] because sifting through remnants icon
+		- [ ] digital asset found
+		- [ ] cold storage
+		- [ ] holding instructions assembly
+		- [ ] individual named peter
