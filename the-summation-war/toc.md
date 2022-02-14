@@ -14,7 +14,7 @@
 
 ## Reference sheet
 
-* **Project SH-335c, Damien Damiano / Peter**, _Homo disposito_, Proctor, Federation of Pangea Ground Forces
+* **Peter**, _Homo disposito_, Proctor, Lieutenant, Field Marshal, Federation of Pangea Ground Forces
 * **RT-2003 / Millicent**, Artificial Intelligence, _Consul_-Class
 * **T-1973 / Arthur**, HoSap Technologies _Adjudicator_-Model humanoid robotic assistant
 * **Katherine Doyle**, General, Federation of Pangea Ground Forces
@@ -25,7 +25,7 @@
 
 ## Contact
 
-I'm available at my [personal website](https://forstmeier.github.io/).
+I'm available at my [personal website](https://johnforstmeier.io/).
 
 Copyright \(c\) John Forstmeier
 
