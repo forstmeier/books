@@ -928,6 +928,7 @@
 		- [ ] his actions led creation
 		- [ ] her actions led destruction
 		- [ ] but one to remain
+		- [ ] and the other chosen for elysium
 		- [ ] that too was fulfilled
 		- [ ] because sifting through remnants icon
 		- [ ] digital asset found
