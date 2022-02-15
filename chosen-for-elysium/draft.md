@@ -363,6 +363,10 @@
 			- wonder if this is discovering your destiny
 			- or suddenly becoming unsure of it
 	- notes:
+		- [ ] read + reread short message
+		- [ ] accompanying location
+		- [ ] millie said that was concerning part
+		- [ ] things there hadn't been before
 		- [ ] expedition fleet finally converged
 		- [ ] prepared hyperspace jump
 		- [ ] launched w/o delay
