@@ -6,7 +6,7 @@
 >  
 > The Proctor is summoned.  
 >  
-> The decision will be made.  
+> The discernment will commence.  
 
 ---
 
