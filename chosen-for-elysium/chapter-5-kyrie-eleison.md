@@ -1,1 +1,1 @@
-# Chapter 5: Kyrie Elision
+# Chapter 5: Kyrie Eleison

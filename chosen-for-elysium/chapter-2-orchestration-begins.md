@@ -1,4 +1,4 @@
-# Chapter 2: Courage Eternal
+# Chapter 2: Orchestration Begins
 
 > ~ ~ ~ ~ ~ ~ ICON ~ ~ ~ ~ ~ ~  
 >  
