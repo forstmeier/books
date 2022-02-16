@@ -1,6 +1,6 @@
 # Chapter 3: _Courage Eternal_
 
-> > Letter to the Hierarchs <  
+> :: Letter to the Hierarchs ::  
 >  
 > Esteemed All,  
 >  
