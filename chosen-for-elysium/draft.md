@@ -254,6 +254,10 @@
 			- we must because it is now
 	- notes:
 		- TEMP: battle recap + victory, plan departure, millie leaves, christen, embark, dinner
+		- [ ] read + reread short message
+		- [ ] accompanying location
+		- [ ] millie said that was concerning part
+		- [ ] things there hadn't been before
 		- [ ] battle completed
 		- [ ] took longer w/o peter + millie
 		- [ ] also pivoting protect citizens
@@ -363,10 +367,6 @@
 			- wonder if this is discovering your destiny
 			- or suddenly becoming unsure of it
 	- notes:
-		- [ ] read + reread short message
-		- [ ] accompanying location
-		- [ ] millie said that was concerning part
-		- [ ] things there hadn't been before
 		- [ ] expedition fleet finally converged
 		- [ ] prepared hyperspace jump
 		- [ ] launched w/o delay
