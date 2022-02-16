@@ -1,4 +1,4 @@
-# Chapter 3: Approach
+# Chapter 3: _Courage Eternal_
 
 > > Letter to the Hierarchs <  
 >  
