@@ -7,7 +7,7 @@
 * [Chapter 1: The world comes to Pyongyang](chapter-1-the-world-comes-to-pyongyang.md)
 * [Chapter 2: Orchestration begins](chapter-2-orchestration-begins.md)
 * [Chapter 3: Courage Eternal](chapter-3-courage-eternal.md)
-<!-- * [Chapter 4: Approach](chapter-4-approach.md) -->
+* [Chapter 4: Approach](chapter-4-approach.md)
 <!-- * [Chapter 5: Kyrie Eleison](chapter-5-kyrie-eleison.md) -->
 <!-- * [Chapter 6: Icon rising](chapter-6-icon-rising.md) -->
 <!-- * [Chapter 7: Sudarium](chapter-7-sudarium.md) -->
