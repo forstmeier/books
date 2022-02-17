@@ -110,6 +110,6 @@ Peter and Bernard shared a sidelong look.
 
 She stepped aside and another figure stepped forward. It was similarly arrayed in armor and a mask but was average human height and build. The armor was also significantly more ornate than the others in the group.  
 
-Its great circular mask broke apart revealing a holographic face.  
+Its great circular mask and armor plating broke apart revealing a holographic body beneath.  
 
 "Hello, Peter" said Millie with a smile.  
