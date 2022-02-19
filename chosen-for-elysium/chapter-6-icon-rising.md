@@ -9,29 +9,32 @@
 > * This is a partial listing:  
 >   * excludes ships below Third rate  
 >   * excludes ships below largest displacement per rate  
-> | Class | Category | Names |
-> | :--- | :--- | :--- |
-> | Fleet | Virtues | Faith |
-> |  |  | Hope |
-> |  |  | Love |
-> | First rate | Honors | Courage Eternal \* |
-> |  |  | Wisdom Unbound |
-> |  |  | Honesty Given |
-> |  |  | Strength Throughout |
-> | Second rate | Actions | Fight Unheeding Wounds |
-> |  |  | For the Glory |
-> |  |  | All People Become Brothers |
-> |  |  | Love with an Open Heart |
-> |  |  | Defending Every Innocence |
-> | Third rate | Words | When It Is Remembered |
-> |  |  | Stern and Splendid |
-> |  |  | The Great Dance |
-> |  |  | Die Before You Die |
-> |  |  | Love Inevitably Leads to Loss |
-> |  |  | For the Poor |
-> |  |  | This Is My Being |
-> |  |  | Small Things With Great Love |
-> |  |  | Collaborators of the Truth |
+
+| Class | Category | Names |
+| :--- | :--- | :--- |
+| Fleet | Virtues | Faith |
+|  |  | Hope |
+|  |  | Love |
+| First rate | Honors | Courage Eternal \* |
+|  |  | Wisdom Unbound |
+|  |  | Honesty Given |
+|  |  | Strength Throughout |
+| Second rate | Actions | Fight Unheeding Wounds |
+|  |  | For the Glory |
+|  |  | All People Become Brothers |
+|  |  | Love with an Open Heart |
+|  |  | Defending Every Innocence |
+| Third rate | Words | When It Is Remembered |
+|  |  | Stern and Splendid |
+|  |  | The Great Dance |
+|  |  | Die Before You Die |
+|  |  | Love Inevitably Leads to Loss |
+|  |  | For the Poor |
+|  |  | This Is My Being |
+|  |  | Small Things With Great Love |
+|  |  | Collaborators of the Truth |
+
+>  
 
 ---
 
