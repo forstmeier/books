@@ -10,7 +10,7 @@
 * [Chapter 4: Approach](chapter-4-approach.md)
 * [Chapter 5: Kyrie Eleison](chapter-5-kyrie-eleison.md)
 * [Chapter 6: Icon rising](chapter-6-icon-rising.md)
-<!-- * [Chapter 7: Sudarium](chapter-7-sudarium.md) -->
+* [Chapter 7: Sudarium](chapter-7-sudarium.md)
 
 ## Reference sheet
 
